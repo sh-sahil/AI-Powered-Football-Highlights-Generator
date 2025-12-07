@@ -1,0 +1,4684 @@
+{
+  "metadata": {
+    "total_segments": 9,
+    "processing_date": "2025-10-20",
+    "total_duration": "00:46:25"
+  },
+  "segments": [
+    {
+      "segment_info": {
+        "segment_id": 1,
+        "global_start_time": "00:00:00",
+        "global_end_time": "00:05:01",
+        "duration": "00:05:01",
+        "total_utterances": 50
+      },
+      "commentary_segments": [
+        {
+          "utterance_number": 1,
+          "segment_id": 1,
+          "local_timestamp": "00:00:00 - 00:00:04",
+          "global_timestamp": "00:00:00 - 00:00:04",
+          "rag_description": "Commentary: A huge roar as this match gets underway.",
+          "full_description": "A huge roar as this match gets underway."
+        },
+        {
+          "utterance_number": 2,
+          "segment_id": 1,
+          "local_timestamp": "00:00:04 - 00:00:09",
+          "global_timestamp": "00:00:04 - 00:00:09",
+          "rag_description": "Commentary: Spain and Portugal, who have both lost their opening match in the last two World Cups.",
+          "full_description": "Spain and Portugal, who have both lost their opening match in the last two World Cups."
+        },
+        {
+          "utterance_number": 3,
+          "segment_id": 1,
+          "local_timestamp": "00:00:09 - 00:00:15",
+          "global_timestamp": "00:00:09 - 00:00:15",
+          "rag_description": "Commentary: The stage is set here in Sochi for what could be a World Cup classic to remember for many years.",
+          "full_description": "The stage is set here in Sochi for what could be a World Cup classic to remember for many years."
+        },
+        {
+          "utterance_number": 4,
+          "segment_id": 1,
+          "local_timestamp": "00:00:15 - 00:00:19",
+          "global_timestamp": "00:00:15 - 00:00:19",
+          "rag_description": "Commentary: It is a humid night, despite the late kickoff time.",
+          "full_description": "It is a humid night, despite the late kickoff time."
+        },
+        {
+          "utterance_number": 5,
+          "segment_id": 1,
+          "local_timestamp": "00:00:19 - 00:00:22",
+          "global_timestamp": "00:00:19 - 00:00:22",
+          "rag_description": "Commentary: It's nine o'clock in the evening here at local time.",
+          "full_description": "It's nine o'clock in the evening here at local time."
+        },
+        {
+          "utterance_number": 6,
+          "segment_id": 1,
+          "local_timestamp": "00:00:22 - 00:00:30",
+          "global_timestamp": "00:00:22 - 00:00:30",
+          "rag_description": "Commentary: To Iberian neighbours, Cristiano Ronaldo facing four of his Real Madrid team-mates.",
+          "full_description": "To Iberian neighbours, Cristiano Ronaldo facing four of his Real Madrid team-mates."
+        },
+        {
+          "utterance_number": 7,
+          "segment_id": 1,
+          "local_timestamp": "00:00:33 - 00:00:35",
+          "global_timestamp": "00:00:33 - 00:00:35",
+          "rag_description": "Commentary: Portugal in the all-red.",
+          "full_description": "Portugal in the all-red."
+        },
+        {
+          "utterance_number": 8,
+          "segment_id": 1,
+          "local_timestamp": "00:00:36 - 00:00:43",
+          "global_timestamp": "00:00:36 - 00:00:43",
+          "rag_description": "Commentary: Spain tonight in their change colours of white with the red trim, one by David Silva.",
+          "full_description": "Spain tonight in their change colours of white with the red trim, one by David Silva."
+        },
+        {
+          "utterance_number": 9,
+          "segment_id": 1,
+          "local_timestamp": "00:00:44 - 00:00:49",
+          "global_timestamp": "00:00:44 - 00:00:49",
+          "rag_description": "Commentary: It's away by Jose Font looking for the run.",
+          "full_description": "It's away by Jose Font looking for the run."
+        },
+        {
+          "utterance_number": 10,
+          "segment_id": 1,
+          "local_timestamp": "00:00:49 - 00:00:51",
+          "global_timestamp": "00:00:49 - 00:00:51",
+          "rag_description": "Commentary: Up front of Gwadesh.",
+          "full_description": "Up front of Gwadesh."
+        },
+        {
+          "utterance_number": 11,
+          "segment_id": 1,
+          "local_timestamp": "00:00:53 - 00:00:55",
+          "global_timestamp": "00:00:53 - 00:00:55",
+          "rag_description": "Commentary: Ronaldo.",
+          "full_description": "Ronaldo."
+        },
+        {
+          "utterance_number": 12,
+          "segment_id": 1,
+          "local_timestamp": "00:00:55 - 00:00:58",
+          "global_timestamp": "00:00:55 - 00:00:58",
+          "rag_description": "Commentary: Little double step over to start with.",
+          "full_description": "Little double step over to start with."
+        },
+        {
+          "utterance_number": 13,
+          "segment_id": 1,
+          "local_timestamp": "00:01:04 - 00:01:06",
+          "global_timestamp": "00:01:04 - 00:01:06",
+          "rag_description": "Commentary: Pepe.",
+          "full_description": "Pepe."
+        },
+        {
+          "utterance_number": 14,
+          "segment_id": 1,
+          "local_timestamp": "00:01:10 - 00:01:12",
+          "global_timestamp": "00:01:10 - 00:01:12",
+          "rag_description": "Commentary: Here's William.",
+          "full_description": "Here's William."
+        },
+        {
+          "utterance_number": 15,
+          "segment_id": 1,
+          "local_timestamp": "00:01:13 - 00:01:15",
+          "global_timestamp": "00:01:13 - 00:01:15",
+          "rag_description": "Commentary: Garedo.",
+          "full_description": "Garedo."
+        },
+        {
+          "utterance_number": 16,
+          "segment_id": 1,
+          "local_timestamp": "00:01:17 - 00:01:19",
+          "global_timestamp": "00:01:17 - 00:01:19",
+          "rag_description": "Commentary: Garedo.",
+          "full_description": "Garedo."
+        },
+        {
+          "utterance_number": 17,
+          "segment_id": 1,
+          "local_timestamp": "00:01:19 - 00:01:23",
+          "global_timestamp": "00:01:19 - 00:01:23",
+          "rag_description": "Commentary: Garedo, the little ball in field looking for Fernandez.",
+          "full_description": "Garedo, the little ball in field looking for Fernandez."
+        },
+        {
+          "utterance_number": 18,
+          "segment_id": 1,
+          "local_timestamp": "00:01:23 - 00:01:25",
+          "global_timestamp": "00:01:23 - 00:01:25",
+          "rag_description": "Commentary: Gwadesh.",
+          "full_description": "Gwadesh."
+        },
+        {
+          "utterance_number": 19,
+          "segment_id": 1,
+          "local_timestamp": "00:01:25 - 00:01:29",
+          "global_timestamp": "00:01:25 - 00:01:29",
+          "rag_description": "Commentary: Shot was blocked, but maybe Portugal can get a shot in here.",
+          "full_description": "Shot was blocked, but maybe Portugal can get a shot in here."
+        },
+        {
+          "utterance_number": 20,
+          "segment_id": 1,
+          "local_timestamp": "00:01:30 - 00:01:35",
+          "global_timestamp": "00:01:30 - 00:01:35",
+          "rag_description": "Commentary: Good opening from the 2016 European champions.",
+          "full_description": "Good opening from the 2016 European champions."
+        },
+        {
+          "utterance_number": 21,
+          "segment_id": 1,
+          "local_timestamp": "00:01:40 - 00:01:46",
+          "global_timestamp": "00:01:40 - 00:01:46",
+          "rag_description": "Commentary: They've won 79% of their competitive matches under Fernando Santos, just two defeats.",
+          "full_description": "They've won 79% of their competitive matches under Fernando Santos, just two defeats."
+        },
+        {
+          "utterance_number": 22,
+          "segment_id": 1,
+          "local_timestamp": "00:01:46 - 00:01:48",
+          "global_timestamp": "00:01:46 - 00:01:48",
+          "rag_description": "Commentary: In 29.",
+          "full_description": "In 29."
+        },
+        {
+          "utterance_number": 23,
+          "segment_id": 1,
+          "local_timestamp": "00:01:51 - 00:01:55",
+          "global_timestamp": "00:01:51 - 00:01:55",
+          "rag_description": "Commentary: That's for Spain, the start of a new era under Fernando Iaredo.",
+          "full_description": "That's for Spain, the start of a new era under Fernando Iaredo."
+        },
+        {
+          "utterance_number": 24,
+          "segment_id": 1,
+          "local_timestamp": "00:01:55 - 00:01:59",
+          "global_timestamp": "00:01:55 - 00:01:59",
+          "rag_description": "Commentary: They were unbeaten under Juli\u00e1n Lopetegui.",
+          "full_description": "They were unbeaten under Juli\u00e1n Lopetegui."
+        },
+        {
+          "utterance_number": 25,
+          "segment_id": 1,
+          "local_timestamp": "00:02:01 - 00:02:04",
+          "global_timestamp": "00:02:01 - 00:02:04",
+          "rag_description": "Commentary: And I wonder what he's feeling now.",
+          "full_description": "And I wonder what he's feeling now."
+        },
+        {
+          "utterance_number": 26,
+          "segment_id": 1,
+          "local_timestamp": "00:02:04 - 00:02:10",
+          "global_timestamp": "00:02:04 - 00:02:10",
+          "rag_description": "Commentary: The deposed national team coach who was unveiled as Real Madrid's new coach yesterday.",
+          "full_description": "The deposed national team coach who was unveiled as Real Madrid's new coach yesterday."
+        },
+        {
+          "utterance_number": 27,
+          "segment_id": 1,
+          "local_timestamp": "00:02:11 - 00:02:12",
+          "global_timestamp": "00:02:11 - 00:02:12",
+          "rag_description": "Commentary: Ronaldo.",
+          "full_description": "Ronaldo."
+        },
+        {
+          "utterance_number": 28,
+          "segment_id": 1,
+          "local_timestamp": "00:02:12 - 00:02:14",
+          "global_timestamp": "00:02:12 - 00:02:14",
+          "rag_description": "Commentary: Is that a penalty? It is!",
+          "full_description": "Is that a penalty? It is!"
+        },
+        {
+          "utterance_number": 29,
+          "segment_id": 1,
+          "local_timestamp": "00:02:16 - 00:02:21",
+          "global_timestamp": "00:02:16 - 00:02:21",
+          "rag_description": "Commentary: Inside the opening three minutes, Cristiano Ronaldo fouled in the penalty area.",
+          "full_description": "Inside the opening three minutes, Cristiano Ronaldo fouled in the penalty area."
+        },
+        {
+          "utterance_number": 30,
+          "segment_id": 1,
+          "local_timestamp": "00:02:21 - 00:02:24",
+          "global_timestamp": "00:02:21 - 00:02:24",
+          "rag_description": "Commentary: And Portugal have the opportunity to take the lead.",
+          "full_description": "And Portugal have the opportunity to take the lead."
+        },
+        {
+          "utterance_number": 31,
+          "segment_id": 1,
+          "local_timestamp": "00:02:29 - 00:02:31",
+          "global_timestamp": "00:02:29 - 00:02:31",
+          "rag_description": "Commentary: The challenge coming in.",
+          "full_description": "The challenge coming in."
+        },
+        {
+          "utterance_number": 32,
+          "segment_id": 1,
+          "local_timestamp": "00:02:35 - 00:02:39",
+          "global_timestamp": "00:02:35 - 00:02:39",
+          "rag_description": "Commentary: From that shot, Ronaldo sent sprawling.",
+          "full_description": "From that shot, Ronaldo sent sprawling."
+        },
+        {
+          "utterance_number": 33,
+          "segment_id": 1,
+          "local_timestamp": "00:02:40 - 00:02:45",
+          "global_timestamp": "00:02:40 - 00:02:45",
+          "rag_description": "Commentary: And straight away, the Italian official pointed to the spot.",
+          "full_description": "And straight away, the Italian official pointed to the spot."
+        },
+        {
+          "utterance_number": 34,
+          "segment_id": 1,
+          "local_timestamp": "00:02:56 - 00:03:01",
+          "global_timestamp": "00:02:56 - 00:03:01",
+          "rag_description": "Commentary: Cristiano Ronaldo has scored seven penalties for Portugal,",
+          "full_description": "Cristiano Ronaldo has scored seven penalties for Portugal,"
+        },
+        {
+          "utterance_number": 35,
+          "segment_id": 1,
+          "local_timestamp": "00:03:01 - 00:03:08",
+          "global_timestamp": "00:03:01 - 00:03:08",
+          "rag_description": "Commentary: but he's scored only three goals in his previous 13 World Cup finals appearances.",
+          "full_description": "but he's scored only three goals in his previous 13 World Cup finals appearances."
+        },
+        {
+          "utterance_number": 36,
+          "segment_id": 1,
+          "local_timestamp": "00:03:09 - 00:03:14",
+          "global_timestamp": "00:03:09 - 00:03:14",
+          "rag_description": "Commentary: He's the only Portuguese player to score at three different World Cups.",
+          "full_description": "He's the only Portuguese player to score at three different World Cups."
+        },
+        {
+          "utterance_number": 37,
+          "segment_id": 1,
+          "local_timestamp": "00:03:15 - 00:03:20",
+          "global_timestamp": "00:03:15 - 00:03:20",
+          "rag_description": "Commentary: Can he be the only Portuguese player to score at four different World Cups?",
+          "full_description": "Can he be the only Portuguese player to score at four different World Cups?"
+        },
+        {
+          "utterance_number": 38,
+          "segment_id": 1,
+          "local_timestamp": "00:03:22 - 00:03:26",
+          "global_timestamp": "00:03:22 - 00:03:26",
+          "rag_description": "Commentary: Cristiano Ronaldo against David De Hia.",
+          "full_description": "Cristiano Ronaldo against David De Hia."
+        },
+        {
+          "utterance_number": 39,
+          "segment_id": 1,
+          "local_timestamp": "00:03:30 - 00:03:33",
+          "global_timestamp": "00:03:30 - 00:03:33",
+          "rag_description": "Commentary: It's 1-0 Portugal, and was there ever any doubt?",
+          "full_description": "It's 1-0 Portugal, and was there ever any doubt?"
+        },
+        {
+          "utterance_number": 40,
+          "segment_id": 1,
+          "local_timestamp": "00:03:38 - 00:03:41",
+          "global_timestamp": "00:03:38 - 00:03:41",
+          "rag_description": "Commentary: 2-0 Portugal, and was there ever any doubt?",
+          "full_description": "2-0 Portugal, and was there ever any doubt?"
+        },
+        {
+          "utterance_number": 41,
+          "segment_id": 1,
+          "local_timestamp": "00:03:45 - 00:03:47",
+          "global_timestamp": "00:03:45 - 00:03:47",
+          "rag_description": "Commentary: What a start for Portugal!",
+          "full_description": "What a start for Portugal!"
+        },
+        {
+          "utterance_number": 42,
+          "segment_id": 1,
+          "local_timestamp": "00:03:55 - 00:03:59",
+          "global_timestamp": "00:03:55 - 00:03:59",
+          "rag_description": "Commentary: De Hia goes one way, Ronaldo goes the other.",
+          "full_description": "De Hia goes one way, Ronaldo goes the other."
+        },
+        {
+          "utterance_number": 43,
+          "segment_id": 1,
+          "local_timestamp": "00:03:59 - 00:04:09",
+          "global_timestamp": "00:03:59 - 00:04:09",
+          "rag_description": "Commentary: It's his 82nd goal for Portugal on his 151st appearance.",
+          "full_description": "It's his 82nd goal for Portugal on his 151st appearance."
+        },
+        {
+          "utterance_number": 44,
+          "segment_id": 1,
+          "local_timestamp": "00:04:10 - 00:04:12",
+          "global_timestamp": "00:04:10 - 00:04:12",
+          "rag_description": "Commentary: It just had to be him.",
+          "full_description": "It just had to be him."
+        },
+        {
+          "utterance_number": 45,
+          "segment_id": 1,
+          "local_timestamp": "00:04:24 - 00:04:28",
+          "global_timestamp": "00:04:24 - 00:04:28",
+          "rag_description": "Commentary: Portugal could not have dreamt of a better beginning.",
+          "full_description": "Portugal could not have dreamt of a better beginning."
+        },
+        {
+          "utterance_number": 46,
+          "segment_id": 1,
+          "local_timestamp": "00:04:29 - 00:04:32",
+          "global_timestamp": "00:04:29 - 00:04:32",
+          "rag_description": "Commentary: To their opening Group B fixture.",
+          "full_description": "To their opening Group B fixture."
+        },
+        {
+          "utterance_number": 47,
+          "segment_id": 1,
+          "local_timestamp": "00:04:37 - 00:04:41",
+          "global_timestamp": "00:04:37 - 00:04:41",
+          "rag_description": "Commentary: It's a nightmare start for Fernando Aero and Spain.",
+          "full_description": "It's a nightmare start for Fernando Aero and Spain."
+        },
+        {
+          "utterance_number": 48,
+          "segment_id": 1,
+          "local_timestamp": "00:04:49 - 00:04:51",
+          "global_timestamp": "00:04:49 - 00:04:51",
+          "rag_description": "Commentary: They didn't feel by Pique.",
+          "full_description": "They didn't feel by Pique."
+        },
+        {
+          "utterance_number": 49,
+          "segment_id": 1,
+          "local_timestamp": "00:04:52 - 00:04:53",
+          "global_timestamp": "00:04:52 - 00:04:53",
+          "rag_description": "Commentary: Ramos.",
+          "full_description": "Ramos."
+        },
+        {
+          "utterance_number": 50,
+          "segment_id": 1,
+          "local_timestamp": "00:04:53 - 00:04:55",
+          "global_timestamp": "00:04:53 - 00:04:55",
+          "rag_description": "Commentary: Jody Alba.",
+          "full_description": "Jody Alba."
+        }
+      ]
+    },
+    {
+      "segment_info": {
+        "segment_id": 2,
+        "global_start_time": "00:05:01",
+        "global_end_time": "00:10:00",
+        "duration": "00:04:59",
+        "total_utterances": 83
+      },
+      "commentary_segments": [
+        {
+          "utterance_number": 1,
+          "segment_id": 2,
+          "local_timestamp": "00:00:00 - 00:00:01",
+          "global_timestamp": "00:05:01 - 00:05:02",
+          "rag_description": "Commentary: this weekend.",
+          "full_description": "this weekend."
+        },
+        {
+          "utterance_number": 2,
+          "segment_id": 2,
+          "local_timestamp": "00:00:01 - 00:00:02",
+          "global_timestamp": "00:05:02 - 00:05:03",
+          "rag_description": "Commentary: It's a great day.",
+          "full_description": "It's a great day."
+        },
+        {
+          "utterance_number": 3,
+          "segment_id": 2,
+          "local_timestamp": "00:00:02 - 00:00:07",
+          "global_timestamp": "00:05:03 - 00:05:08",
+          "rag_description": "Commentary: The Spanish fans, all a little",
+          "full_description": "The Spanish fans, all a little"
+        },
+        {
+          "utterance_number": 4,
+          "segment_id": 2,
+          "local_timestamp": "00:00:07 - 00:00:08",
+          "global_timestamp": "00:05:08 - 00:05:09",
+          "rag_description": "Commentary: quiet.",
+          "full_description": "quiet."
+        },
+        {
+          "utterance_number": 5,
+          "segment_id": 2,
+          "local_timestamp": "00:00:08 - 00:00:10",
+          "global_timestamp": "00:05:09 - 00:05:11",
+          "rag_description": "Commentary: There are large numbers of",
+          "full_description": "There are large numbers of"
+        },
+        {
+          "utterance_number": 6,
+          "segment_id": 2,
+          "local_timestamp": "00:00:10 - 00:00:11",
+          "global_timestamp": "00:05:11 - 00:05:12",
+          "rag_description": "Commentary: supporters of both these",
+          "full_description": "supporters of both these"
+        },
+        {
+          "utterance_number": 7,
+          "segment_id": 2,
+          "local_timestamp": "00:00:11 - 00:00:13",
+          "global_timestamp": "00:05:12 - 00:05:14",
+          "rag_description": "Commentary: countries here in Sachi.",
+          "full_description": "countries here in Sachi."
+        },
+        {
+          "utterance_number": 8,
+          "segment_id": 2,
+          "local_timestamp": "00:00:13 - 00:00:17",
+          "global_timestamp": "00:05:14 - 00:05:18",
+          "rag_description": "Commentary: Turn is by Moutinho.",
+          "full_description": "Turn is by Moutinho."
+        },
+        {
+          "utterance_number": 9,
+          "segment_id": 2,
+          "local_timestamp": "00:00:17 - 00:00:21",
+          "global_timestamp": "00:05:18 - 00:05:22",
+          "rag_description": "Commentary: Ronaldo.",
+          "full_description": "Ronaldo."
+        },
+        {
+          "utterance_number": 10,
+          "segment_id": 2,
+          "local_timestamp": "00:00:21 - 00:00:31",
+          "global_timestamp": "00:05:22 - 00:05:32",
+          "rag_description": "Commentary: Ronaldo.",
+          "full_description": "Ronaldo."
+        },
+        {
+          "utterance_number": 11,
+          "segment_id": 2,
+          "local_timestamp": "00:00:31 - 00:00:38",
+          "global_timestamp": "00:05:32 - 00:05:39",
+          "rag_description": "Commentary: Free kick Portugal.",
+          "full_description": "Free kick Portugal."
+        },
+        {
+          "utterance_number": 12,
+          "segment_id": 2,
+          "local_timestamp": "00:00:38 - 00:00:48",
+          "global_timestamp": "00:05:39 - 00:05:49",
+          "rag_description": "Commentary: Ronaldo.",
+          "full_description": "Ronaldo."
+        },
+        {
+          "utterance_number": 13,
+          "segment_id": 2,
+          "local_timestamp": "00:00:48 - 00:00:50",
+          "global_timestamp": "00:05:49 - 00:05:51",
+          "rag_description": "Commentary: Cristiano Ronaldo is the first",
+          "full_description": "Cristiano Ronaldo is the first"
+        },
+        {
+          "utterance_number": 14,
+          "segment_id": 2,
+          "local_timestamp": "00:00:50 - 00:00:52",
+          "global_timestamp": "00:05:51 - 00:05:53",
+          "rag_description": "Commentary: player in history to score at",
+          "full_description": "player in history to score at"
+        },
+        {
+          "utterance_number": 15,
+          "segment_id": 2,
+          "local_timestamp": "00:00:52 - 00:00:54",
+          "global_timestamp": "00:05:53 - 00:05:55",
+          "rag_description": "Commentary: eight successive major",
+          "full_description": "eight successive major"
+        },
+        {
+          "utterance_number": 16,
+          "segment_id": 2,
+          "local_timestamp": "00:00:54 - 00:00:55",
+          "global_timestamp": "00:05:55 - 00:05:56",
+          "rag_description": "Commentary: tournaments.",
+          "full_description": "tournaments."
+        },
+        {
+          "utterance_number": 17,
+          "segment_id": 2,
+          "local_timestamp": "00:00:55 - 00:00:56",
+          "global_timestamp": "00:05:56 - 00:05:57",
+          "rag_description": "Commentary: He just keeps creating",
+          "full_description": "He just keeps creating"
+        },
+        {
+          "utterance_number": 18,
+          "segment_id": 2,
+          "local_timestamp": "00:00:56 - 00:00:57",
+          "global_timestamp": "00:05:57 - 00:05:58",
+          "rag_description": "Commentary: records.",
+          "full_description": "records."
+        },
+        {
+          "utterance_number": 19,
+          "segment_id": 2,
+          "local_timestamp": "00:00:57 - 00:00:59",
+          "global_timestamp": "00:05:58 - 00:06:00",
+          "rag_description": "Commentary: And you know he's only 33 years",
+          "full_description": "And you know he's only 33 years"
+        },
+        {
+          "utterance_number": 20,
+          "segment_id": 2,
+          "local_timestamp": "00:00:59 - 00:01:00",
+          "global_timestamp": "00:06:00 - 00:06:01",
+          "rag_description": "Commentary: old.",
+          "full_description": "old."
+        },
+        {
+          "utterance_number": 21,
+          "segment_id": 2,
+          "local_timestamp": "00:01:00 - 00:01:02",
+          "global_timestamp": "00:06:01 - 00:06:03",
+          "rag_description": "Commentary: And given his physical",
+          "full_description": "And given his physical"
+        },
+        {
+          "utterance_number": 22,
+          "segment_id": 2,
+          "local_timestamp": "00:01:02 - 00:01:04",
+          "global_timestamp": "00:06:03 - 00:06:05",
+          "rag_description": "Commentary: condition you know he's",
+          "full_description": "condition you know he's"
+        },
+        {
+          "utterance_number": 23,
+          "segment_id": 2,
+          "local_timestamp": "00:01:04 - 00:01:06",
+          "global_timestamp": "00:06:05 - 00:06:07",
+          "rag_description": "Commentary: really wouldn't bet against",
+          "full_description": "really wouldn't bet against"
+        },
+        {
+          "utterance_number": 24,
+          "segment_id": 2,
+          "local_timestamp": "00:01:06 - 00:01:08",
+          "global_timestamp": "00:06:07 - 00:06:09",
+          "rag_description": "Commentary: him being in Qatar in four",
+          "full_description": "him being in Qatar in four"
+        },
+        {
+          "utterance_number": 25,
+          "segment_id": 2,
+          "local_timestamp": "00:01:08 - 00:01:09",
+          "global_timestamp": "00:06:09 - 00:06:10",
+          "rag_description": "Commentary: years time.",
+          "full_description": "years time."
+        },
+        {
+          "utterance_number": 26,
+          "segment_id": 2,
+          "local_timestamp": "00:01:09 - 00:01:11",
+          "global_timestamp": "00:06:10 - 00:06:12",
+          "rag_description": "Commentary: Provided Portugal qualify to",
+          "full_description": "Provided Portugal qualify to"
+        },
+        {
+          "utterance_number": 27,
+          "segment_id": 2,
+          "local_timestamp": "00:01:11 - 00:01:13",
+          "global_timestamp": "00:06:12 - 00:06:14",
+          "rag_description": "Commentary: appear at a fifth World Cup",
+          "full_description": "appear at a fifth World Cup"
+        },
+        {
+          "utterance_number": 28,
+          "segment_id": 2,
+          "local_timestamp": "00:01:13 - 00:01:14",
+          "global_timestamp": "00:06:14 - 00:06:15",
+          "rag_description": "Commentary: finals.",
+          "full_description": "finals."
+        },
+        {
+          "utterance_number": 29,
+          "segment_id": 2,
+          "local_timestamp": "00:01:14 - 00:01:20",
+          "global_timestamp": "00:06:15 - 00:06:21",
+          "rag_description": "Commentary: Ramosh.",
+          "full_description": "Ramosh."
+        },
+        {
+          "utterance_number": 30,
+          "segment_id": 2,
+          "local_timestamp": "00:01:20 - 00:01:22",
+          "global_timestamp": "00:06:21 - 00:06:23",
+          "rag_description": "Commentary: Sergio Ramosh who ended",
+          "full_description": "Sergio Ramosh who ended"
+        },
+        {
+          "utterance_number": 31,
+          "segment_id": 2,
+          "local_timestamp": "00:01:22 - 00:01:24",
+          "global_timestamp": "00:06:23 - 00:06:25",
+          "rag_description": "Commentary: yesterday's media conference",
+          "full_description": "yesterday's media conference"
+        },
+        {
+          "utterance_number": 32,
+          "segment_id": 2,
+          "local_timestamp": "00:01:24 - 00:01:26",
+          "global_timestamp": "00:06:25 - 00:06:27",
+          "rag_description": "Commentary: which was full of questions",
+          "full_description": "which was full of questions"
+        },
+        {
+          "utterance_number": 33,
+          "segment_id": 2,
+          "local_timestamp": "00:01:26 - 00:01:28",
+          "global_timestamp": "00:06:27 - 00:06:29",
+          "rag_description": "Commentary: about the managerial and",
+          "full_description": "about the managerial and"
+        },
+        {
+          "utterance_number": 34,
+          "segment_id": 2,
+          "local_timestamp": "00:01:28 - 00:01:29",
+          "global_timestamp": "00:06:29 - 00:06:30",
+          "rag_description": "Commentary: coaching situation.",
+          "full_description": "coaching situation."
+        },
+        {
+          "utterance_number": 35,
+          "segment_id": 2,
+          "local_timestamp": "00:01:29 - 00:01:31",
+          "global_timestamp": "00:06:30 - 00:06:32",
+          "rag_description": "Commentary: And he's been a great",
+          "full_description": "And he's been a great"
+        },
+        {
+          "utterance_number": 36,
+          "segment_id": 2,
+          "local_timestamp": "00:01:31 - 00:01:32",
+          "global_timestamp": "00:06:32 - 00:06:33",
+          "rag_description": "Commentary: player for the last three",
+          "full_description": "player for the last three"
+        },
+        {
+          "utterance_number": 37,
+          "segment_id": 2,
+          "local_timestamp": "00:01:32 - 00:01:33",
+          "global_timestamp": "00:06:33 - 00:06:34",
+          "rag_description": "Commentary: years.",
+          "full_description": "years."
+        },
+        {
+          "utterance_number": 38,
+          "segment_id": 2,
+          "local_timestamp": "00:01:33 - 00:01:35",
+          "global_timestamp": "00:06:34 - 00:06:36",
+          "rag_description": "Commentary: He's been the managerial and",
+          "full_description": "He's been the managerial and"
+        },
+        {
+          "utterance_number": 39,
+          "segment_id": 2,
+          "local_timestamp": "00:01:35 - 00:01:37",
+          "global_timestamp": "00:06:36 - 00:06:38",
+          "rag_description": "Commentary: coaching situation with Spain",
+          "full_description": "coaching situation with Spain"
+        },
+        {
+          "utterance_number": 40,
+          "segment_id": 2,
+          "local_timestamp": "00:01:37 - 00:01:38",
+          "global_timestamp": "00:06:38 - 00:06:39",
+          "rag_description": "Commentary: by saying cheer up we're not at",
+          "full_description": "by saying cheer up we're not at"
+        },
+        {
+          "utterance_number": 41,
+          "segment_id": 2,
+          "local_timestamp": "00:01:38 - 00:01:40",
+          "global_timestamp": "00:06:39 - 00:06:41",
+          "rag_description": "Commentary: a funeral.",
+          "full_description": "a funeral."
+        },
+        {
+          "utterance_number": 42,
+          "segment_id": 2,
+          "local_timestamp": "00:01:40 - 00:01:42",
+          "global_timestamp": "00:06:41 - 00:06:43",
+          "rag_description": "Commentary: Let's get this World Cup",
+          "full_description": "Let's get this World Cup"
+        },
+        {
+          "utterance_number": 43,
+          "segment_id": 2,
+          "local_timestamp": "00:01:42 - 00:01:43",
+          "global_timestamp": "00:06:43 - 00:06:44",
+          "rag_description": "Commentary: started.",
+          "full_description": "started."
+        },
+        {
+          "utterance_number": 44,
+          "segment_id": 2,
+          "local_timestamp": "00:01:43 - 00:01:44",
+          "global_timestamp": "00:06:44 - 00:06:45",
+          "rag_description": "Commentary: And with that he stood up and",
+          "full_description": "And with that he stood up and"
+        },
+        {
+          "utterance_number": 45,
+          "segment_id": 2,
+          "local_timestamp": "00:01:44 - 00:01:45",
+          "global_timestamp": "00:06:45 - 00:06:46",
+          "rag_description": "Commentary: prompted and marched out of the",
+          "full_description": "prompted and marched out of the"
+        },
+        {
+          "utterance_number": 46,
+          "segment_id": 2,
+          "local_timestamp": "00:01:45 - 00:01:46",
+          "global_timestamp": "00:06:46 - 00:06:47",
+          "rag_description": "Commentary: room.",
+          "full_description": "room."
+        },
+        {
+          "utterance_number": 47,
+          "segment_id": 2,
+          "local_timestamp": "00:01:46 - 00:01:47",
+          "global_timestamp": "00:06:47 - 00:06:48",
+          "rag_description": "Commentary: He did say it with a smile on",
+          "full_description": "He did say it with a smile on"
+        },
+        {
+          "utterance_number": 48,
+          "segment_id": 2,
+          "local_timestamp": "00:01:47 - 00:01:51",
+          "global_timestamp": "00:06:48 - 00:06:52",
+          "rag_description": "Commentary: his face, it has to be said.",
+          "full_description": "his face, it has to be said."
+        },
+        {
+          "utterance_number": 49,
+          "segment_id": 2,
+          "local_timestamp": "00:01:51 - 00:01:53",
+          "global_timestamp": "00:06:52 - 00:06:54",
+          "rag_description": "Commentary: But there'll be no smiles in",
+          "full_description": "But there'll be no smiles in"
+        },
+        {
+          "utterance_number": 50,
+          "segment_id": 2,
+          "local_timestamp": "00:01:53 - 00:01:55",
+          "global_timestamp": "00:06:54 - 00:06:56",
+          "rag_description": "Commentary: the Spain camp at the moment.",
+          "full_description": "the Spain camp at the moment."
+        },
+        {
+          "utterance_number": 51,
+          "segment_id": 2,
+          "local_timestamp": "00:01:55 - 00:01:57",
+          "global_timestamp": "00:06:56 - 00:06:58",
+          "rag_description": "Commentary: Ronaldo clearly found, you can",
+          "full_description": "Ronaldo clearly found, you can"
+        },
+        {
+          "utterance_number": 52,
+          "segment_id": 2,
+          "local_timestamp": "00:01:57 - 00:01:58",
+          "global_timestamp": "00:06:58 - 00:06:59",
+          "rag_description": "Commentary: see the referee's position.",
+          "full_description": "see the referee's position."
+        },
+        {
+          "utterance_number": 53,
+          "segment_id": 2,
+          "local_timestamp": "00:01:58 - 00:02:01",
+          "global_timestamp": "00:06:59 - 00:07:02",
+          "rag_description": "Commentary: An absolutely unimpeded view.",
+          "full_description": "An absolutely unimpeded view."
+        },
+        {
+          "utterance_number": 54,
+          "segment_id": 2,
+          "local_timestamp": "00:02:01 - 00:02:05",
+          "global_timestamp": "00:07:02 - 00:07:06",
+          "rag_description": "Commentary: Amran Aldo does what he does best.",
+          "full_description": "Amran Aldo does what he does best."
+        },
+        {
+          "utterance_number": 55,
+          "segment_id": 2,
+          "local_timestamp": "00:02:07 - 00:02:11",
+          "global_timestamp": "00:07:08 - 00:07:13",
+          "rag_description": "Commentary: Incidentally, talking of him playing at a fifth World Cup finals in four years' time,",
+          "full_description": "Incidentally, talking of him playing at a fifth World Cup finals in four years' time,"
+        },
+        {
+          "utterance_number": 56,
+          "segment_id": 2,
+          "local_timestamp": "00:02:11 - 00:02:18",
+          "global_timestamp": "00:07:13 - 00:07:20",
+          "rag_description": "Commentary: no player has actually scored at five different World Cup finals.",
+          "full_description": "no player has actually scored at five different World Cup finals."
+        },
+        {
+          "utterance_number": 57,
+          "segment_id": 2,
+          "local_timestamp": "00:02:18 - 00:02:29",
+          "global_timestamp": "00:07:20 - 00:07:31",
+          "rag_description": "Commentary: No doubting.",
+          "full_description": "No doubting."
+        },
+        {
+          "utterance_number": 58,
+          "segment_id": 2,
+          "local_timestamp": "00:02:29 - 00:02:33",
+          "global_timestamp": "00:07:31 - 00:07:35",
+          "rag_description": "Commentary: Fernando Ieros Pedagrich, former Spanish international,",
+          "full_description": "Fernando Ieros Pedagrich, former Spanish international,"
+        },
+        {
+          "utterance_number": 59,
+          "segment_id": 2,
+          "local_timestamp": "00:02:33 - 00:02:35",
+          "global_timestamp": "00:07:35 - 00:07:37",
+          "rag_description": "Commentary: Real Madrid defender.",
+          "full_description": "Real Madrid defender."
+        },
+        {
+          "utterance_number": 60,
+          "segment_id": 2,
+          "local_timestamp": "00:02:35 - 00:02:43",
+          "global_timestamp": "00:07:37 - 00:07:45",
+          "rag_description": "Commentary: 29 goals in 89 appearances for Spain, played at three World Cup finals.",
+          "full_description": "29 goals in 89 appearances for Spain, played at three World Cup finals."
+        },
+        {
+          "utterance_number": 61,
+          "segment_id": 2,
+          "local_timestamp": "00:02:43 - 00:02:54",
+          "global_timestamp": "00:07:45 - 00:07:56",
+          "rag_description": "Commentary: There was nobody better placed really than the sporting director of the Spanish Football Association...",
+          "full_description": "There was nobody better placed really than the sporting director of the Spanish Football Association."
+        },
+        {
+          "utterance_number": 62,
+          "segment_id": 2,
+          "local_timestamp": "00:02:54 - 00:03:00",
+          "global_timestamp": "00:07:56 - 00:08:02",
+          "rag_description": "Commentary: The Spanish Football Federation, to give it its correct title.",
+          "full_description": "The Spanish Football Federation, to give it its correct title."
+        },
+        {
+          "utterance_number": 63,
+          "segment_id": 2,
+          "local_timestamp": "00:03:00 - 00:03:03",
+          "global_timestamp": "00:08:02 - 00:08:05",
+          "rag_description": "Commentary: It's gone.",
+          "full_description": "It's gone."
+        },
+        {
+          "utterance_number": 64,
+          "segment_id": 2,
+          "local_timestamp": "00:03:03 - 00:03:07",
+          "global_timestamp": "00:08:05 - 00:08:09",
+          "rag_description": "Commentary: Looking for Diego Costa.",
+          "full_description": "Looking for Diego Costa."
+        },
+        {
+          "utterance_number": 65,
+          "segment_id": 2,
+          "local_timestamp": "00:03:07 - 00:03:14",
+          "global_timestamp": "00:08:09 - 00:08:16",
+          "rag_description": "Commentary: Here's Iniesta.",
+          "full_description": "Here's Iniesta."
+        },
+        {
+          "utterance_number": 66,
+          "segment_id": 2,
+          "local_timestamp": "00:03:14 - 00:03:18",
+          "global_timestamp": "00:08:16 - 00:08:20",
+          "rag_description": "Commentary: Spain really haven't had a prolonged spell of possession so far.",
+          "full_description": "Spain really haven't had a prolonged spell of possession so far."
+        },
+        {
+          "utterance_number": 67,
+          "segment_id": 2,
+          "local_timestamp": "00:03:18 - 00:03:26",
+          "global_timestamp": "00:08:20 - 00:08:28",
+          "rag_description": "Commentary: Here's Nacho.",
+          "full_description": "Here's Nacho."
+        },
+        {
+          "utterance_number": 68,
+          "segment_id": 2,
+          "local_timestamp": "00:03:26 - 00:03:30",
+          "global_timestamp": "00:08:28 - 00:08:32",
+          "rag_description": "Commentary: Cooke couldn't keep hold of it.",
+          "full_description": "Cooke couldn't keep hold of it."
+        },
+        {
+          "utterance_number": 69,
+          "segment_id": 2,
+          "local_timestamp": "00:03:30 - 00:03:43",
+          "global_timestamp": "00:08:32 - 00:08:45",
+          "rag_description": "Commentary: Ramos.",
+          "full_description": "Ramos."
+        },
+        {
+          "utterance_number": 70,
+          "segment_id": 2,
+          "local_timestamp": "00:03:43 - 00:03:45",
+          "global_timestamp": "00:08:45 - 00:08:47",
+          "rag_description": "Commentary: Iniesta.",
+          "full_description": "Iniesta."
+        },
+        {
+          "utterance_number": 71,
+          "segment_id": 2,
+          "local_timestamp": "00:03:45 - 00:03:54",
+          "global_timestamp": "00:08:47 - 00:08:56",
+          "rag_description": "Commentary: Costa.",
+          "full_description": "Costa."
+        },
+        {
+          "utterance_number": 72,
+          "segment_id": 2,
+          "local_timestamp": "00:03:54 - 00:03:58",
+          "global_timestamp": "00:08:56 - 00:09:00",
+          "rag_description": "Commentary: Busquets.",
+          "full_description": "Busquets."
+        },
+        {
+          "utterance_number": 73,
+          "segment_id": 2,
+          "local_timestamp": "00:03:58 - 00:04:00",
+          "global_timestamp": "00:09:00 - 00:09:02",
+          "rag_description": "Commentary: Ramos.",
+          "full_description": "Ramos."
+        },
+        {
+          "utterance_number": 74,
+          "segment_id": 2,
+          "local_timestamp": "00:04:00 - 00:04:06",
+          "global_timestamp": "00:09:02 - 00:09:08",
+          "rag_description": "Commentary: Two on that far side.",
+          "full_description": "Two on that far side."
+        },
+        {
+          "utterance_number": 75,
+          "segment_id": 2,
+          "local_timestamp": "00:04:06 - 00:04:08",
+          "global_timestamp": "00:09:08 - 00:09:10",
+          "rag_description": "Commentary: And two in the penalty area, hoping to get on the end of it.",
+          "full_description": "And two in the penalty area, hoping to get on the end of it."
+        },
+        {
+          "utterance_number": 76,
+          "segment_id": 2,
+          "local_timestamp": "00:04:08 - 00:04:20",
+          "global_timestamp": "00:09:10 - 00:09:22",
+          "rag_description": "Commentary: The shot comes in from Silva.",
+          "full_description": "The shot comes in from Silva."
+        },
+        {
+          "utterance_number": 77,
+          "segment_id": 2,
+          "local_timestamp": "00:04:20 - 00:04:24",
+          "global_timestamp": "00:09:22 - 00:09:26",
+          "rag_description": "Commentary: David Silva here in a little bit of space.",
+          "full_description": "David Silva here in a little bit of space."
+        },
+        {
+          "utterance_number": 78,
+          "segment_id": 2,
+          "local_timestamp": "00:04:24 - 00:04:31",
+          "global_timestamp": "00:09:26 - 00:09:33",
+          "rag_description": "Commentary: The fourth highest goal scorer for Spain, skying that one.",
+          "full_description": "The fourth highest goal scorer for Spain, skying that one."
+        },
+        {
+          "utterance_number": 79,
+          "segment_id": 2,
+          "local_timestamp": "00:04:31 - 00:04:34",
+          "global_timestamp": "00:09:33 - 00:09:36",
+          "rag_description": "Commentary: Here's international debut way back in 2006.",
+          "full_description": "Here's international debut way back in 2006."
+        },
+        {
+          "utterance_number": 80,
+          "segment_id": 2,
+          "local_timestamp": "00:04:34 - 00:04:36",
+          "global_timestamp": "00:09:36 - 00:09:38",
+          "rag_description": "Commentary: David Silva.",
+          "full_description": "David Silva."
+        },
+        {
+          "utterance_number": 81,
+          "segment_id": 2,
+          "local_timestamp": "00:04:36 - 00:04:42",
+          "global_timestamp": "00:09:38 - 00:09:44",
+          "rag_description": "Commentary: It was an unused substitute in the 2010 World Cup final victory.",
+          "full_description": "It was an unused substitute in the 2010 World Cup final victory."
+        },
+        {
+          "utterance_number": 82,
+          "segment_id": 2,
+          "local_timestamp": "00:04:42 - 00:04:51",
+          "global_timestamp": "00:09:44 - 00:09:53",
+          "rag_description": "Commentary: Playback by Piquet.",
+          "full_description": "Playback by Piquet."
+        },
+        {
+          "utterance_number": 83,
+          "segment_id": 2,
+          "local_timestamp": "00:04:51 - 00:04:58",
+          "global_timestamp": "00:09:53 - 00:10:00",
+          "rag_description": "Commentary: Ramos.",
+          "full_description": "Ramos."
+        }
+      ]
+    },
+    {
+      "segment_info": {
+        "segment_id": 3,
+        "global_start_time": "00:10:00",
+        "global_end_time": "00:14:59",
+        "duration": "00:04:59",
+        "total_utterances": 43
+      },
+      "commentary_segments": [
+        {
+          "utterance_number": 1,
+          "segment_id": 3,
+          "local_timestamp": "00:00:00 - 00:00:11",
+          "global_timestamp": "00:10:00 - 00:10:11",
+          "rag_description": "Commentary: If you have just joined us, Portugal in front, Cristiano Ronaldo with an early penalty after he was ...",
+          "full_description": "If you have just joined us, Portugal in front, Cristiano Ronaldo with an early penalty after he was fouled in the penalty area."
+        },
+        {
+          "utterance_number": 2,
+          "segment_id": 3,
+          "local_timestamp": "00:00:11 - 00:00:14",
+          "global_timestamp": "00:10:11 - 00:10:14",
+          "rag_description": "Commentary: Busquets.",
+          "full_description": "Busquets."
+        },
+        {
+          "utterance_number": 3,
+          "segment_id": 3,
+          "local_timestamp": "00:00:14 - 00:00:20",
+          "global_timestamp": "00:10:14 - 00:10:20",
+          "rag_description": "Commentary: In fact Portugal's quickest World Cup goal since 1966.",
+          "full_description": "In fact Portugal's quickest World Cup goal since 1966."
+        },
+        {
+          "utterance_number": 4,
+          "segment_id": 3,
+          "local_timestamp": "00:00:20 - 00:00:29",
+          "global_timestamp": "00:10:20 - 00:10:29",
+          "rag_description": "Commentary: When they reached the semi-finals with the great Eusebio and company only to be beaten in the last f...",
+          "full_description": "When they reached the semi-finals with the great Eusebio and company only to be beaten in the last four by the eventual champions England."
+        },
+        {
+          "utterance_number": 5,
+          "segment_id": 3,
+          "local_timestamp": "00:00:30 - 00:00:38",
+          "global_timestamp": "00:10:30 - 00:10:38",
+          "rag_description": "Commentary: Ronaldo's little flick on. Great Esh was trying to get on the end of it.",
+          "full_description": "Ronaldo's little flick on. Great Esh was trying to get on the end of it."
+        },
+        {
+          "utterance_number": 6,
+          "segment_id": 3,
+          "local_timestamp": "00:00:44 - 00:00:47",
+          "global_timestamp": "00:10:44 - 00:10:47",
+          "rag_description": "Commentary: Alba. Here's Ramos.",
+          "full_description": "Alba. Here's Ramos."
+        },
+        {
+          "utterance_number": 7,
+          "segment_id": 3,
+          "local_timestamp": "00:00:47 - 00:00:49",
+          "global_timestamp": "00:10:47 - 00:10:49",
+          "rag_description": "Commentary: Ramos.",
+          "full_description": "Ramos."
+        },
+        {
+          "utterance_number": 8,
+          "segment_id": 3,
+          "local_timestamp": "00:00:56 - 00:01:01",
+          "global_timestamp": "00:10:56 - 00:11:01",
+          "rag_description": "Commentary: Quickie forward by Esco. No free kick.",
+          "full_description": "Quickie forward by Esco. No free kick."
+        },
+        {
+          "utterance_number": 9,
+          "segment_id": 3,
+          "local_timestamp": "00:01:01 - 00:01:05",
+          "global_timestamp": "00:11:01 - 00:11:05",
+          "rag_description": "Commentary: You can hear the reaction from the Spanish supporters.",
+          "full_description": "You can hear the reaction from the Spanish supporters."
+        },
+        {
+          "utterance_number": 10,
+          "segment_id": 3,
+          "local_timestamp": "00:01:07 - 00:01:10",
+          "global_timestamp": "00:11:07 - 00:11:10",
+          "rag_description": "Commentary: There's Alba. Took a tumble.",
+          "full_description": "There's Alba. Took a tumble."
+        },
+        {
+          "utterance_number": 11,
+          "segment_id": 3,
+          "local_timestamp": "00:01:10 - 00:01:19",
+          "global_timestamp": "00:11:10 - 00:11:19",
+          "rag_description": "Commentary: Rui Patricia made one appearance at the last World Cup before being injured.",
+          "full_description": "Rui Patricia made one appearance at the last World Cup before being injured."
+        },
+        {
+          "utterance_number": 12,
+          "segment_id": 3,
+          "local_timestamp": "00:01:26 - 00:01:39",
+          "global_timestamp": "00:11:26 - 00:11:39",
+          "rag_description": "Commentary: Portuguese goalkeeper incidentally one of four sporting players in the Portuguese squad who have thi...",
+          "full_description": "Portuguese goalkeeper incidentally one of four sporting players in the Portuguese squad who have this week served notice on their club that they wish to terminate their contract because after a rather unsavory incident at the club's training ground."
+        },
+        {
+          "utterance_number": 13,
+          "segment_id": 3,
+          "local_timestamp": "00:01:40 - 00:01:46",
+          "global_timestamp": "00:11:40 - 00:11:46",
+          "rag_description": "Commentary: And that matter will now go to court. William, Jelson Martins and Bruno Fernandez are the others.",
+          "full_description": "And that matter will now go to court. William, Jelson Martins and Bruno Fernandez are the others."
+        },
+        {
+          "utterance_number": 14,
+          "segment_id": 3,
+          "local_timestamp": "00:01:49 - 00:01:51",
+          "global_timestamp": "00:11:49 - 00:11:51",
+          "rag_description": "Commentary: Pique.",
+          "full_description": "Pique."
+        },
+        {
+          "utterance_number": 15,
+          "segment_id": 3,
+          "local_timestamp": "00:01:57 - 00:01:59",
+          "global_timestamp": "00:11:57 - 00:11:59",
+          "rag_description": "Commentary: Here's Ramos.",
+          "full_description": "Here's Ramos."
+        },
+        {
+          "utterance_number": 16,
+          "segment_id": 3,
+          "local_timestamp": "00:02:00 - 00:02:07",
+          "global_timestamp": "00:12:00 - 00:12:07",
+          "rag_description": "Commentary: Spanning this captain who always sees a lot of the ball as he brings it out from defence. Alba.",
+          "full_description": "Spanning this captain who always sees a lot of the ball as he brings it out from defence. Alba."
+        },
+        {
+          "utterance_number": 17,
+          "segment_id": 3,
+          "local_timestamp": "00:02:07 - 00:02:11",
+          "global_timestamp": "00:12:07 - 00:12:11",
+          "rag_description": "Commentary: We're going to take on Pepe. Esco.",
+          "full_description": "We're going to take on Pepe. Esco."
+        },
+        {
+          "utterance_number": 18,
+          "segment_id": 3,
+          "local_timestamp": "00:02:13 - 00:02:15",
+          "global_timestamp": "00:12:13 - 00:12:15",
+          "rag_description": "Commentary: That's a corner.",
+          "full_description": "That's a corner."
+        },
+        {
+          "utterance_number": 19,
+          "segment_id": 3,
+          "local_timestamp": "00:02:16 - 00:02:19",
+          "global_timestamp": "00:12:16 - 00:12:19",
+          "rag_description": "Commentary: Spain's first corner of the match.",
+          "full_description": "Spain's first corner of the match."
+        },
+        {
+          "utterance_number": 20,
+          "segment_id": 3,
+          "local_timestamp": "00:02:22 - 00:02:29",
+          "global_timestamp": "00:12:22 - 00:12:29",
+          "rag_description": "Commentary: And they've taken it short. Plenty of bodies forward in white for Spain. No way through for Iniesta.",
+          "full_description": "And they've taken it short. Plenty of bodies forward in white for Spain. No way through for Iniesta."
+        },
+        {
+          "utterance_number": 21,
+          "segment_id": 3,
+          "local_timestamp": "00:02:37 - 00:02:40",
+          "global_timestamp": "00:12:37 - 00:12:40",
+          "rag_description": "Commentary: And the goalkeeper is the goalkeeper.",
+          "full_description": "And the goalkeeper is the goalkeeper."
+        },
+        {
+          "utterance_number": 22,
+          "segment_id": 3,
+          "local_timestamp": "00:02:47 - 00:02:50",
+          "global_timestamp": "00:12:47 - 00:12:50",
+          "rag_description": "Commentary: Costa is the target.",
+          "full_description": "Costa is the target."
+        },
+        {
+          "utterance_number": 23,
+          "segment_id": 3,
+          "local_timestamp": "00:02:52 - 00:03:02",
+          "global_timestamp": "00:12:52 - 00:13:02",
+          "rag_description": "Commentary: There's a little bit of debate as to whether it would be Sergio Costa playing up front or maybe Rodr...",
+          "full_description": "There's a little bit of debate as to whether it would be Sergio Costa playing up front or maybe Rodrigo, the other striker."
+        },
+        {
+          "utterance_number": 24,
+          "segment_id": 3,
+          "local_timestamp": "00:03:02 - 00:03:05",
+          "global_timestamp": "00:13:02 - 00:13:05",
+          "rag_description": "Commentary: Diego Costa has won the day.",
+          "full_description": "Diego Costa has won the day."
+        },
+        {
+          "utterance_number": 25,
+          "segment_id": 3,
+          "local_timestamp": "00:03:05 - 00:03:07",
+          "global_timestamp": "00:13:05 - 00:13:07",
+          "rag_description": "Commentary: Here's Rafael Guerrero.",
+          "full_description": "Here's Rafael Guerrero."
+        },
+        {
+          "utterance_number": 26,
+          "segment_id": 3,
+          "local_timestamp": "00:03:09 - 00:03:11",
+          "global_timestamp": "00:13:09 - 00:13:11",
+          "rag_description": "Commentary: Ronaldo.",
+          "full_description": "Ronaldo."
+        },
+        {
+          "utterance_number": 27,
+          "segment_id": 3,
+          "local_timestamp": "00:03:12 - 00:03:22",
+          "global_timestamp": "00:13:12 - 00:13:22",
+          "rag_description": "Commentary: Jose Fonte hasn't played a great deal of football in the past year. The Portuguese centre half, Font...",
+          "full_description": "Jose Fonte hasn't played a great deal of football in the past year. The Portuguese centre half, Fonte, who's now with Chinese club, Deleon Yee Fang."
+        },
+        {
+          "utterance_number": 28,
+          "segment_id": 3,
+          "local_timestamp": "00:03:27 - 00:03:30",
+          "global_timestamp": "00:13:27 - 00:13:30",
+          "rag_description": "Commentary: Match of the man who gave away the penalty.",
+          "full_description": "Match of the man who gave away the penalty."
+        },
+        {
+          "utterance_number": 29,
+          "segment_id": 3,
+          "local_timestamp": "00:03:36 - 00:03:39",
+          "global_timestamp": "00:13:36 - 00:13:39",
+          "rag_description": "Commentary: And the goalkeeper is the one who's now with the penalty.",
+          "full_description": "And the goalkeeper is the one who's now with the penalty."
+        },
+        {
+          "utterance_number": 30,
+          "segment_id": 3,
+          "local_timestamp": "00:03:42 - 00:03:44",
+          "global_timestamp": "00:13:42 - 00:13:44",
+          "rag_description": "Commentary: Busquets.",
+          "full_description": "Busquets."
+        },
+        {
+          "utterance_number": 31,
+          "segment_id": 3,
+          "local_timestamp": "00:03:48 - 00:03:50",
+          "global_timestamp": "00:13:48 - 00:13:50",
+          "rag_description": "Commentary: Iniesta.",
+          "full_description": "Iniesta."
+        },
+        {
+          "utterance_number": 32,
+          "segment_id": 3,
+          "local_timestamp": "00:03:56 - 00:03:58",
+          "global_timestamp": "00:13:56 - 00:13:58",
+          "rag_description": "Commentary: Diego Costa.",
+          "full_description": "Diego Costa."
+        },
+        {
+          "utterance_number": 33,
+          "segment_id": 3,
+          "local_timestamp": "00:03:58 - 00:04:02",
+          "global_timestamp": "00:13:58 - 00:14:02",
+          "rag_description": "Commentary: Costa's two-digit though. Easily gathered by Rui Patricia.",
+          "full_description": "Costa's two-digit though. Easily gathered by Rui Patricia."
+        },
+        {
+          "utterance_number": 34,
+          "segment_id": 3,
+          "local_timestamp": "00:04:06 - 00:04:11",
+          "global_timestamp": "00:14:06 - 00:14:11",
+          "rag_description": "Commentary: Fernando Hierro is like a box of tricks on the edge of the technical areas.",
+          "full_description": "Fernando Hierro is like a box of tricks on the edge of the technical areas."
+        },
+        {
+          "utterance_number": 35,
+          "segment_id": 3,
+          "local_timestamp": "00:04:11 - 00:04:17",
+          "global_timestamp": "00:14:11 - 00:14:17",
+          "rag_description": "Commentary: Constantly moving up and down, urging his players. The newly installed Spanish national coach.",
+          "full_description": "Constantly moving up and down, urging his players. The newly installed Spanish national coach."
+        },
+        {
+          "utterance_number": 36,
+          "segment_id": 3,
+          "local_timestamp": "00:04:20 - 00:04:22",
+          "global_timestamp": "00:14:20 - 00:14:22",
+          "rag_description": "Commentary: Worked wide by Matinho.",
+          "full_description": "Worked wide by Matinho."
+        },
+        {
+          "utterance_number": 37,
+          "segment_id": 3,
+          "local_timestamp": "00:04:23 - 00:04:25",
+          "global_timestamp": "00:14:23 - 00:14:25",
+          "rag_description": "Commentary: Cedric, here's Matinho again.",
+          "full_description": "Cedric, here's Matinho again."
+        },
+        {
+          "utterance_number": 38,
+          "segment_id": 3,
+          "local_timestamp": "00:04:28 - 00:04:30",
+          "global_timestamp": "00:14:28 - 00:14:30",
+          "rag_description": "Commentary: This is Rafael Guerrero.",
+          "full_description": "This is Rafael Guerrero."
+        },
+        {
+          "utterance_number": 39,
+          "segment_id": 3,
+          "local_timestamp": "00:04:35 - 00:04:37",
+          "global_timestamp": "00:14:35 - 00:14:37",
+          "rag_description": "Commentary: Guerrero.",
+          "full_description": "Guerrero."
+        },
+        {
+          "utterance_number": 40,
+          "segment_id": 3,
+          "local_timestamp": "00:04:39 - 00:04:42",
+          "global_timestamp": "00:14:39 - 00:14:42",
+          "rag_description": "Commentary: Just that little bit of pressure from Costa.",
+          "full_description": "Just that little bit of pressure from Costa."
+        },
+        {
+          "utterance_number": 41,
+          "segment_id": 3,
+          "local_timestamp": "00:04:42 - 00:04:45",
+          "global_timestamp": "00:14:42 - 00:14:45",
+          "rag_description": "Commentary: He made the slight miss-kick from the goalkeeper.",
+          "full_description": "He made the slight miss-kick from the goalkeeper."
+        },
+        {
+          "utterance_number": 42,
+          "segment_id": 3,
+          "local_timestamp": "00:04:46 - 00:04:49",
+          "global_timestamp": "00:14:46 - 00:14:49",
+          "rag_description": "Commentary: Gwadesh, just beaten to it by Cok\u00e9.",
+          "full_description": "Gwadesh, just beaten to it by Cok\u00e9."
+        },
+        {
+          "utterance_number": 43,
+          "segment_id": 3,
+          "local_timestamp": "00:04:51 - 00:04:53",
+          "global_timestamp": "00:14:51 - 00:14:53",
+          "rag_description": "Commentary: Here's Pique.",
+          "full_description": "Here's Pique."
+        }
+      ]
+    },
+    {
+      "segment_info": {
+        "segment_id": 4,
+        "global_start_time": "00:14:59",
+        "global_end_time": "00:19:58",
+        "duration": "00:04:59",
+        "total_utterances": 58
+      },
+      "commentary_segments": [
+        {
+          "utterance_number": 1,
+          "segment_id": 4,
+          "local_timestamp": "00:00:00 - 00:00:04",
+          "global_timestamp": "00:14:59 - 00:15:03",
+          "rag_description": "Commentary: Well, Tanty by Isco.",
+          "full_description": "Well, Tanty by Isco."
+        },
+        {
+          "utterance_number": 2,
+          "segment_id": 4,
+          "local_timestamp": "00:00:08 - 00:00:10",
+          "global_timestamp": "00:15:07 - 00:15:09",
+          "rag_description": "Commentary: Ramos.",
+          "full_description": "Ramos."
+        },
+        {
+          "utterance_number": 3,
+          "segment_id": 4,
+          "local_timestamp": "00:00:18 - 00:00:20",
+          "global_timestamp": "00:15:17 - 00:15:19",
+          "rag_description": "Commentary: Isco.",
+          "full_description": "Isco."
+        },
+        {
+          "utterance_number": 4,
+          "segment_id": 4,
+          "local_timestamp": "00:00:20 - 00:00:22",
+          "global_timestamp": "00:15:19 - 00:15:21",
+          "rag_description": "Commentary: Iniesta.",
+          "full_description": "Iniesta."
+        },
+        {
+          "utterance_number": 5,
+          "segment_id": 4,
+          "local_timestamp": "00:00:30 - 00:00:35",
+          "global_timestamp": "00:15:29 - 00:15:34",
+          "rag_description": "Commentary: Slowly making strides forward, Spain. Iniesta again.",
+          "full_description": "Slowly making strides forward, Spain. Iniesta again."
+        },
+        {
+          "utterance_number": 6,
+          "segment_id": 4,
+          "local_timestamp": "00:00:41 - 00:00:44",
+          "global_timestamp": "00:15:40 - 00:15:43",
+          "rag_description": "Commentary: Silva wanted a ball played forward to him.",
+          "full_description": "Silva wanted a ball played forward to him."
+        },
+        {
+          "utterance_number": 7,
+          "segment_id": 4,
+          "local_timestamp": "00:00:48 - 00:00:51",
+          "global_timestamp": "00:15:47 - 00:15:50",
+          "rag_description": "Commentary: Picked up on this near side by Nacho.",
+          "full_description": "Picked up on this near side by Nacho."
+        },
+        {
+          "utterance_number": 8,
+          "segment_id": 4,
+          "local_timestamp": "00:00:52 - 00:00:56",
+          "global_timestamp": "00:15:51 - 00:15:55",
+          "rag_description": "Commentary: Away by Ronaldo. And Portugal might be able to break away here.",
+          "full_description": "Away by Ronaldo. And Portugal might be able to break away here."
+        },
+        {
+          "utterance_number": 9,
+          "segment_id": 4,
+          "local_timestamp": "00:00:56 - 00:00:59",
+          "global_timestamp": "00:15:55 - 00:15:58",
+          "rag_description": "Commentary: It's Gonzalo Gredas and Ronaldo making the run on this near side.",
+          "full_description": "It's Gonzalo Gredas and Ronaldo making the run on this near side."
+        },
+        {
+          "utterance_number": 10,
+          "segment_id": 4,
+          "local_timestamp": "00:01:00 - 00:01:03",
+          "global_timestamp": "00:15:59 - 00:16:02",
+          "rag_description": "Commentary: Gredas will have to go all the way on his own.",
+          "full_description": "Gredas will have to go all the way on his own."
+        },
+        {
+          "utterance_number": 11,
+          "segment_id": 4,
+          "local_timestamp": "00:01:04 - 00:01:08",
+          "global_timestamp": "00:16:03 - 00:16:07",
+          "rag_description": "Commentary: The pass was on for a fraction of a second there to Ronaldo.",
+          "full_description": "The pass was on for a fraction of a second there to Ronaldo."
+        },
+        {
+          "utterance_number": 12,
+          "segment_id": 4,
+          "local_timestamp": "00:01:08 - 00:01:13",
+          "global_timestamp": "00:16:07 - 00:16:12",
+          "rag_description": "Commentary: But the Portuguese captain had to check his run for fear of going offside.",
+          "full_description": "But the Portuguese captain had to check his run for fear of going offside."
+        },
+        {
+          "utterance_number": 13,
+          "segment_id": 4,
+          "local_timestamp": "00:01:18 - 00:01:21",
+          "global_timestamp": "00:16:17 - 00:16:20",
+          "rag_description": "Commentary: You see Gredas here just having a little look to his left.",
+          "full_description": "You see Gredas here just having a little look to his left."
+        },
+        {
+          "utterance_number": 14,
+          "segment_id": 4,
+          "local_timestamp": "00:01:24 - 00:01:27",
+          "global_timestamp": "00:16:23 - 00:16:26",
+          "rag_description": "Commentary: And then rather run up a cul-de-sac.",
+          "full_description": "And then rather run up a cul-de-sac."
+        },
+        {
+          "utterance_number": 15,
+          "segment_id": 4,
+          "local_timestamp": "00:01:31 - 00:01:33",
+          "global_timestamp": "00:16:30 - 00:16:32",
+          "rag_description": "Commentary: Piquet.",
+          "full_description": "Piquet."
+        },
+        {
+          "utterance_number": 16,
+          "segment_id": 4,
+          "local_timestamp": "00:01:47 - 00:01:49",
+          "global_timestamp": "00:16:46 - 00:16:48",
+          "rag_description": "Commentary: Special accard of the night.",
+          "full_description": "Special accard of the night."
+        },
+        {
+          "utterance_number": 17,
+          "segment_id": 4,
+          "local_timestamp": "00:01:52 - 00:01:55",
+          "global_timestamp": "00:16:51 - 00:16:54",
+          "rag_description": "Commentary: Referee was just waiting there to see what might happen.",
+          "full_description": "Referee was just waiting there to see what might happen."
+        },
+        {
+          "utterance_number": 18,
+          "segment_id": 4,
+          "local_timestamp": "00:02:00 - 00:02:02",
+          "global_timestamp": "00:16:59 - 00:17:01",
+          "rag_description": "Commentary: And as Martinho challenged for it,",
+          "full_description": "And as Martinho challenged for it,"
+        },
+        {
+          "utterance_number": 19,
+          "segment_id": 4,
+          "local_timestamp": "00:02:04 - 00:02:07",
+          "global_timestamp": "00:17:03 - 00:17:06",
+          "rag_description": "Commentary: then it was Gredes who was caught.",
+          "full_description": "then it was Gredes who was caught."
+        },
+        {
+          "utterance_number": 20,
+          "segment_id": 4,
+          "local_timestamp": "00:02:14 - 00:02:16",
+          "global_timestamp": "00:17:13 - 00:17:15",
+          "rag_description": "Commentary: Sergio Busquets.",
+          "full_description": "Sergio Busquets."
+        },
+        {
+          "utterance_number": 21,
+          "segment_id": 4,
+          "local_timestamp": "00:02:18 - 00:02:21",
+          "global_timestamp": "00:17:17 - 00:17:20",
+          "rag_description": "Commentary: Here's the first player to be cautioned then tonight.",
+          "full_description": "Here's the first player to be cautioned then tonight."
+        },
+        {
+          "utterance_number": 22,
+          "segment_id": 4,
+          "local_timestamp": "00:02:22 - 00:02:25",
+          "global_timestamp": "00:17:21 - 00:17:24",
+          "rag_description": "Commentary: And Spain have some defending to do.",
+          "full_description": "And Spain have some defending to do."
+        },
+        {
+          "utterance_number": 23,
+          "segment_id": 4,
+          "local_timestamp": "00:02:26 - 00:02:29",
+          "global_timestamp": "00:17:25 - 00:17:28",
+          "rag_description": "Commentary: It's a promising position this for Portugal.",
+          "full_description": "It's a promising position this for Portugal."
+        },
+        {
+          "utterance_number": 24,
+          "segment_id": 4,
+          "local_timestamp": "00:02:29 - 00:02:32",
+          "global_timestamp": "00:17:28 - 00:17:31",
+          "rag_description": "Commentary: And you know who wants it as well.",
+          "full_description": "And you know who wants it as well."
+        },
+        {
+          "utterance_number": 25,
+          "segment_id": 4,
+          "local_timestamp": "00:02:32 - 00:02:34",
+          "global_timestamp": "00:17:31 - 00:17:33",
+          "rag_description": "Commentary: It's the familiar setup.",
+          "full_description": "It's the familiar setup."
+        },
+        {
+          "utterance_number": 26,
+          "segment_id": 4,
+          "local_timestamp": "00:02:38 - 00:02:43",
+          "global_timestamp": "00:17:37 - 00:17:42",
+          "rag_description": "Commentary: Will he go for goal? Will he drive it in hoping to get a touch from a teammate?",
+          "full_description": "Will he go for goal? Will he drive it in hoping to get a touch from a teammate?"
+        },
+        {
+          "utterance_number": 27,
+          "segment_id": 4,
+          "local_timestamp": "00:02:45 - 00:02:47",
+          "global_timestamp": "00:17:44 - 00:17:46",
+          "rag_description": "Commentary: Everyone knows what's coming.",
+          "full_description": "Everyone knows what's coming."
+        },
+        {
+          "utterance_number": 28,
+          "segment_id": 4,
+          "local_timestamp": "00:02:49 - 00:02:54",
+          "global_timestamp": "00:17:48 - 00:17:53",
+          "rag_description": "Commentary: But Portugal do have somebody else out there just in case the free kick comes in a different directi...",
+          "full_description": "But Portugal do have somebody else out there just in case the free kick comes in a different direction."
+        },
+        {
+          "utterance_number": 29,
+          "segment_id": 4,
+          "local_timestamp": "00:02:54 - 00:02:57",
+          "global_timestamp": "00:17:53 - 00:17:56",
+          "rag_description": "Commentary: It is Ronaldo. It's straight into the wall.",
+          "full_description": "It is Ronaldo. It's straight into the wall."
+        },
+        {
+          "utterance_number": 30,
+          "segment_id": 4,
+          "local_timestamp": "00:03:13 - 00:03:15",
+          "global_timestamp": "00:18:12 - 00:18:14",
+          "rag_description": "Commentary: Look at the power behind this.",
+          "full_description": "Look at the power behind this."
+        },
+        {
+          "utterance_number": 31,
+          "segment_id": 4,
+          "local_timestamp": "00:03:16 - 00:03:18",
+          "global_timestamp": "00:18:15 - 00:18:17",
+          "rag_description": "Commentary: Two Portuguese players though in the wall.",
+          "full_description": "Two Portuguese players though in the wall."
+        },
+        {
+          "utterance_number": 32,
+          "segment_id": 4,
+          "local_timestamp": "00:03:19 - 00:03:21",
+          "global_timestamp": "00:18:18 - 00:18:20",
+          "rag_description": "Commentary: Committing the foul.",
+          "full_description": "Committing the foul."
+        },
+        {
+          "utterance_number": 33,
+          "segment_id": 4,
+          "local_timestamp": "00:03:21 - 00:03:23",
+          "global_timestamp": "00:18:20 - 00:18:22",
+          "rag_description": "Commentary: Here's Nacho.",
+          "full_description": "Here's Nacho."
+        },
+        {
+          "utterance_number": 34,
+          "segment_id": 4,
+          "local_timestamp": "00:03:25 - 00:03:27",
+          "global_timestamp": "00:18:24 - 00:18:26",
+          "rag_description": "Commentary: Piquet.",
+          "full_description": "Piquet."
+        },
+        {
+          "utterance_number": 35,
+          "segment_id": 4,
+          "local_timestamp": "00:03:28 - 00:03:33",
+          "global_timestamp": "00:18:27 - 00:18:32",
+          "rag_description": "Commentary: General Piquet who will retire from international football for Spain after this World Cup.",
+          "full_description": "General Piquet who will retire from international football for Spain after this World Cup."
+        },
+        {
+          "utterance_number": 36,
+          "segment_id": 4,
+          "local_timestamp": "00:03:41 - 00:03:48",
+          "global_timestamp": "00:18:40 - 00:18:47",
+          "rag_description": "Commentary: One of the six players in this squad who were involved in 2010 when Spain lifted the trophy.",
+          "full_description": "One of the six players in this squad who were involved in 2010 when Spain lifted the trophy."
+        },
+        {
+          "utterance_number": 37,
+          "segment_id": 4,
+          "local_timestamp": "00:03:49 - 00:03:51",
+          "global_timestamp": "00:18:48 - 00:18:50",
+          "rag_description": "Commentary: Silva.",
+          "full_description": "Silva."
+        },
+        {
+          "utterance_number": 38,
+          "segment_id": 4,
+          "local_timestamp": "00:03:52 - 00:03:54",
+          "global_timestamp": "00:18:51 - 00:18:53",
+          "rag_description": "Commentary: Ramos.",
+          "full_description": "Ramos."
+        },
+        {
+          "utterance_number": 39,
+          "segment_id": 4,
+          "local_timestamp": "00:03:55 - 00:03:57",
+          "global_timestamp": "00:18:54 - 00:18:56",
+          "rag_description": "Commentary: Forged by Iniesta.",
+          "full_description": "Forged by Iniesta."
+        },
+        {
+          "utterance_number": 40,
+          "segment_id": 4,
+          "local_timestamp": "00:04:00 - 00:04:02",
+          "global_timestamp": "00:18:59 - 00:19:01",
+          "rag_description": "Commentary: Silva.",
+          "full_description": "Silva."
+        },
+        {
+          "utterance_number": 41,
+          "segment_id": 4,
+          "local_timestamp": "00:04:07 - 00:04:09",
+          "global_timestamp": "00:19:06 - 00:19:08",
+          "rag_description": "Commentary: Silva's little touch.",
+          "full_description": "Silva's little touch."
+        },
+        {
+          "utterance_number": 42,
+          "segment_id": 4,
+          "local_timestamp": "00:04:09 - 00:04:12",
+          "global_timestamp": "00:19:08 - 00:19:11",
+          "rag_description": "Commentary: Costa isn't going to get on the end of that one.",
+          "full_description": "Costa isn't going to get on the end of that one."
+        },
+        {
+          "utterance_number": 43,
+          "segment_id": 4,
+          "local_timestamp": "00:04:13 - 00:04:16",
+          "global_timestamp": "00:19:12 - 00:19:15",
+          "rag_description": "Commentary: Not had a great deal of service so far tonight.",
+          "full_description": "Not had a great deal of service so far tonight."
+        },
+        {
+          "utterance_number": 44,
+          "segment_id": 4,
+          "local_timestamp": "00:04:17 - 00:04:19",
+          "global_timestamp": "00:19:16 - 00:19:18",
+          "rag_description": "Commentary: Diego Costa.",
+          "full_description": "Diego Costa."
+        },
+        {
+          "utterance_number": 45,
+          "segment_id": 4,
+          "local_timestamp": "00:04:21 - 00:04:23",
+          "global_timestamp": "00:19:20 - 00:19:22",
+          "rag_description": "Commentary: Ronaldo's head up.",
+          "full_description": "Ronaldo's head up."
+        },
+        {
+          "utterance_number": 46,
+          "segment_id": 4,
+          "local_timestamp": "00:04:23 - 00:04:25",
+          "global_timestamp": "00:19:22 - 00:19:24",
+          "rag_description": "Commentary: This is William.",
+          "full_description": "This is William."
+        },
+        {
+          "utterance_number": 47,
+          "segment_id": 4,
+          "local_timestamp": "00:04:29 - 00:04:31",
+          "global_timestamp": "00:19:28 - 00:19:30",
+          "rag_description": "Commentary: Pepe.",
+          "full_description": "Pepe."
+        },
+        {
+          "utterance_number": 48,
+          "segment_id": 4,
+          "local_timestamp": "00:04:32 - 00:04:34",
+          "global_timestamp": "00:19:31 - 00:19:33",
+          "rag_description": "Commentary: Might well be the last match.",
+          "full_description": "Might well be the last match."
+        },
+        {
+          "utterance_number": 49,
+          "segment_id": 4,
+          "local_timestamp": "00:04:34 - 00:04:36",
+          "global_timestamp": "00:19:33 - 00:19:35",
+          "rag_description": "Commentary: But it's a good start.",
+          "full_description": "But it's a good start."
+        },
+        {
+          "utterance_number": 50,
+          "segment_id": 4,
+          "local_timestamp": "00:04:36 - 00:04:38",
+          "global_timestamp": "00:19:35 - 00:19:37",
+          "rag_description": "Commentary: It's a good start.",
+          "full_description": "It's a good start."
+        },
+        {
+          "utterance_number": 51,
+          "segment_id": 4,
+          "local_timestamp": "00:04:38 - 00:04:40",
+          "global_timestamp": "00:19:37 - 00:19:39",
+          "rag_description": "Commentary: It's a good start.",
+          "full_description": "It's a good start."
+        },
+        {
+          "utterance_number": 52,
+          "segment_id": 4,
+          "local_timestamp": "00:04:40 - 00:04:42",
+          "global_timestamp": "00:19:39 - 00:19:41",
+          "rag_description": "Commentary: It's a good start.",
+          "full_description": "It's a good start."
+        },
+        {
+          "utterance_number": 53,
+          "segment_id": 4,
+          "local_timestamp": "00:04:42 - 00:04:44",
+          "global_timestamp": "00:19:41 - 00:19:43",
+          "rag_description": "Commentary: It's a good start.",
+          "full_description": "It's a good start."
+        },
+        {
+          "utterance_number": 54,
+          "segment_id": 4,
+          "local_timestamp": "00:04:44 - 00:04:46",
+          "global_timestamp": "00:19:43 - 00:19:45",
+          "rag_description": "Commentary: It's a good start.",
+          "full_description": "It's a good start."
+        },
+        {
+          "utterance_number": 55,
+          "segment_id": 4,
+          "local_timestamp": "00:04:46 - 00:04:48",
+          "global_timestamp": "00:19:45 - 00:19:47",
+          "rag_description": "Commentary: It's a good start.",
+          "full_description": "It's a good start."
+        },
+        {
+          "utterance_number": 56,
+          "segment_id": 4,
+          "local_timestamp": "00:04:49 - 00:04:52",
+          "global_timestamp": "00:19:48 - 00:19:51",
+          "rag_description": "Commentary: It might well be the last major tournament that we see.",
+          "full_description": "It might well be the last major tournament that we see."
+        },
+        {
+          "utterance_number": 57,
+          "segment_id": 4,
+          "local_timestamp": "00:04:52 - 00:04:56",
+          "global_timestamp": "00:19:51 - 00:19:55",
+          "rag_description": "Commentary: Pepe and Jose Font together in the heart of the Portuguese defence.",
+          "full_description": "Pepe and Jose Font together in the heart of the Portuguese defence."
+        },
+        {
+          "utterance_number": 58,
+          "segment_id": 4,
+          "local_timestamp": "00:04:56 - 00:04:59",
+          "global_timestamp": "00:19:55 - 00:19:58",
+          "rag_description": "Commentary: Pepe now 35 years of age.",
+          "full_description": "Pepe now 35 years of age."
+        }
+      ]
+    },
+    {
+      "segment_info": {
+        "segment_id": 5,
+        "global_start_time": "00:19:58",
+        "global_end_time": "00:24:57",
+        "duration": "00:04:59",
+        "total_utterances": 63
+      },
+      "commentary_segments": [
+        {
+          "utterance_number": 1,
+          "segment_id": 5,
+          "local_timestamp": "00:00:00 - 00:00:14",
+          "global_timestamp": "00:19:58 - 00:20:12",
+          "rag_description": "Commentary: for. Little touch forward from",
+          "full_description": "for. Little touch forward from"
+        },
+        {
+          "utterance_number": 2,
+          "segment_id": 5,
+          "local_timestamp": "00:00:14 - 00:00:16",
+          "global_timestamp": "00:20:12 - 00:20:14",
+          "rag_description": "Commentary: Koke Costa. Held up by Pepe.",
+          "full_description": "Koke Costa. Held up by Pepe."
+        },
+        {
+          "utterance_number": 3,
+          "segment_id": 5,
+          "local_timestamp": "00:00:19 - 00:00:25",
+          "global_timestamp": "00:20:17 - 00:20:23",
+          "rag_description": "Commentary: Isco. Content to let that ball roll for a Spanish throw.",
+          "full_description": "Isco. Content to let that ball roll for a Spanish throw."
+        },
+        {
+          "utterance_number": 4,
+          "segment_id": 5,
+          "local_timestamp": "00:00:30 - 00:00:32",
+          "global_timestamp": "00:20:28 - 00:20:30",
+          "rag_description": "Commentary: No.",
+          "full_description": "No."
+        },
+        {
+          "utterance_number": 5,
+          "segment_id": 5,
+          "local_timestamp": "00:00:32 - 00:00:34",
+          "global_timestamp": "00:20:30 - 00:20:32",
+          "rag_description": "Commentary: Braumos.",
+          "full_description": "Braumos."
+        },
+        {
+          "utterance_number": 6,
+          "segment_id": 5,
+          "local_timestamp": "00:00:40 - 00:00:43",
+          "global_timestamp": "00:20:38 - 00:20:41",
+          "rag_description": "Commentary: Touch from Iniesta. Here's Iniesta again.",
+          "full_description": "Touch from Iniesta. Here's Iniesta again."
+        },
+        {
+          "utterance_number": 7,
+          "segment_id": 5,
+          "local_timestamp": "00:00:43 - 00:00:46",
+          "global_timestamp": "00:20:41 - 00:20:44",
+          "rag_description": "Commentary: Andres Iniesta looking to pull it back.",
+          "full_description": "Andres Iniesta looking to pull it back."
+        },
+        {
+          "utterance_number": 8,
+          "segment_id": 5,
+          "local_timestamp": "00:00:46 - 00:00:49",
+          "global_timestamp": "00:20:44 - 00:20:47",
+          "rag_description": "Commentary: And the shot is deflected wide from David Silva.",
+          "full_description": "And the shot is deflected wide from David Silva."
+        },
+        {
+          "utterance_number": 9,
+          "segment_id": 5,
+          "local_timestamp": "00:00:56 - 00:00:59",
+          "global_timestamp": "00:20:54 - 00:20:57",
+          "rag_description": "Commentary: Spain win their second corner.",
+          "full_description": "Spain win their second corner."
+        },
+        {
+          "utterance_number": 10,
+          "segment_id": 5,
+          "local_timestamp": "00:00:59 - 00:01:02",
+          "global_timestamp": "00:20:57 - 00:21:00",
+          "rag_description": "Commentary: Iniesta crucial in that build up.",
+          "full_description": "Iniesta crucial in that build up."
+        },
+        {
+          "utterance_number": 11,
+          "segment_id": 5,
+          "local_timestamp": "00:01:08 - 00:01:11",
+          "global_timestamp": "00:21:06 - 00:21:09",
+          "rag_description": "Commentary: All by one back for Portugal. It was towards Pique.",
+          "full_description": "All by one back for Portugal. It was towards Pique."
+        },
+        {
+          "utterance_number": 12,
+          "segment_id": 5,
+          "local_timestamp": "00:01:14 - 00:01:16",
+          "global_timestamp": "00:21:12 - 00:21:14",
+          "rag_description": "Commentary: A little touch from Bernardo Silva.",
+          "full_description": "A little touch from Bernardo Silva."
+        },
+        {
+          "utterance_number": 13,
+          "segment_id": 5,
+          "local_timestamp": "00:01:16 - 00:01:19",
+          "global_timestamp": "00:21:14 - 00:21:17",
+          "rag_description": "Commentary: And Portugal are away. It's three against two here.",
+          "full_description": "And Portugal are away. It's three against two here."
+        },
+        {
+          "utterance_number": 14,
+          "segment_id": 5,
+          "local_timestamp": "00:01:19 - 00:01:23",
+          "global_timestamp": "00:21:17 - 00:21:21",
+          "rag_description": "Commentary: If the ball can be played correctly. Ronaldo in field.",
+          "full_description": "If the ball can be played correctly. Ronaldo in field."
+        },
+        {
+          "utterance_number": 15,
+          "segment_id": 5,
+          "local_timestamp": "00:01:23 - 00:01:26",
+          "global_timestamp": "00:21:21 - 00:21:24",
+          "rag_description": "Commentary: And Spain just able to get back.",
+          "full_description": "And Spain just able to get back."
+        },
+        {
+          "utterance_number": 16,
+          "segment_id": 5,
+          "local_timestamp": "00:01:26 - 00:01:28",
+          "global_timestamp": "00:21:24 - 00:21:26",
+          "rag_description": "Commentary: Andres Iniesta.",
+          "full_description": "Andres Iniesta."
+        },
+        {
+          "utterance_number": 17,
+          "segment_id": 5,
+          "local_timestamp": "00:01:29 - 00:01:32",
+          "global_timestamp": "00:21:27 - 00:21:30",
+          "rag_description": "Commentary: Gu\u00e9 dash unable to apply the finishing touch.",
+          "full_description": "Gu\u00e9 dash unable to apply the finishing touch."
+        },
+        {
+          "utterance_number": 18,
+          "segment_id": 5,
+          "local_timestamp": "00:01:34 - 00:01:37",
+          "global_timestamp": "00:21:32 - 00:21:35",
+          "rag_description": "Commentary: To a centralating breakaway move.",
+          "full_description": "To a centralating breakaway move."
+        },
+        {
+          "utterance_number": 19,
+          "segment_id": 5,
+          "local_timestamp": "00:01:41 - 00:01:44",
+          "global_timestamp": "00:21:39 - 00:21:42",
+          "rag_description": "Commentary: Spain really struggling to get back in numbers.",
+          "full_description": "Spain really struggling to get back in numbers."
+        },
+        {
+          "utterance_number": 20,
+          "segment_id": 5,
+          "local_timestamp": "00:01:44 - 00:01:47",
+          "global_timestamp": "00:21:42 - 00:21:45",
+          "rag_description": "Commentary: A little touch in field from Ronaldo.",
+          "full_description": "A little touch in field from Ronaldo."
+        },
+        {
+          "utterance_number": 21,
+          "segment_id": 5,
+          "local_timestamp": "00:01:50 - 00:01:53",
+          "global_timestamp": "00:21:48 - 00:21:51",
+          "rag_description": "Commentary: But Spain were back.",
+          "full_description": "But Spain were back."
+        },
+        {
+          "utterance_number": 22,
+          "segment_id": 5,
+          "local_timestamp": "00:01:56 - 00:01:58",
+          "global_timestamp": "00:21:54 - 00:21:56",
+          "rag_description": "Commentary: They didn't get a point.",
+          "full_description": "They didn't get a point."
+        },
+        {
+          "utterance_number": 23,
+          "segment_id": 5,
+          "local_timestamp": "00:01:58 - 00:02:00",
+          "global_timestamp": "00:21:56 - 00:21:58",
+          "rag_description": "Commentary: They broke away.",
+          "full_description": "They broke away."
+        },
+        {
+          "utterance_number": 24,
+          "segment_id": 5,
+          "local_timestamp": "00:02:00 - 00:02:02",
+          "global_timestamp": "00:21:58 - 00:22:00",
+          "rag_description": "Commentary: From deep inside their own half.",
+          "full_description": "From deep inside their own half."
+        },
+        {
+          "utterance_number": 25,
+          "segment_id": 5,
+          "local_timestamp": "00:02:09 - 00:02:13",
+          "global_timestamp": "00:22:07 - 00:22:11",
+          "rag_description": "Commentary: Approaching the midway point of the first half.",
+          "full_description": "Approaching the midway point of the first half."
+        },
+        {
+          "utterance_number": 26,
+          "segment_id": 5,
+          "local_timestamp": "00:02:13 - 00:02:15",
+          "global_timestamp": "00:22:11 - 00:22:13",
+          "rag_description": "Commentary: Portugal in front.",
+          "full_description": "Portugal in front."
+        },
+        {
+          "utterance_number": 27,
+          "segment_id": 5,
+          "local_timestamp": "00:02:15 - 00:02:18",
+          "global_timestamp": "00:22:13 - 00:22:16",
+          "rag_description": "Commentary: And they have never lost a World Cup match when they have scored",
+          "full_description": "And they have never lost a World Cup match when they have scored"
+        },
+        {
+          "utterance_number": 28,
+          "segment_id": 5,
+          "local_timestamp": "00:02:18 - 00:02:21",
+          "global_timestamp": "00:22:16 - 00:22:19",
+          "rag_description": "Commentary: the opening goal.",
+          "full_description": "the opening goal."
+        },
+        {
+          "utterance_number": 29,
+          "segment_id": 5,
+          "local_timestamp": "00:02:21 - 00:02:23",
+          "global_timestamp": "00:22:19 - 00:22:21",
+          "rag_description": "Commentary: 12 wins out of 13.",
+          "full_description": "12 wins out of 13."
+        },
+        {
+          "utterance_number": 30,
+          "segment_id": 5,
+          "local_timestamp": "00:02:24 - 00:02:27",
+          "global_timestamp": "00:22:22 - 00:22:25",
+          "rag_description": "Commentary: And looking to expunge bitter memories from four years ago",
+          "full_description": "And looking to expunge bitter memories from four years ago"
+        },
+        {
+          "utterance_number": 31,
+          "segment_id": 5,
+          "local_timestamp": "00:02:27 - 00:02:31",
+          "global_timestamp": "00:22:25 - 00:22:29",
+          "rag_description": "Commentary: when they lost 4-0 to Germany in their opening match.",
+          "full_description": "when they lost 4-0 to Germany in their opening match."
+        },
+        {
+          "utterance_number": 32,
+          "segment_id": 5,
+          "local_timestamp": "00:02:44 - 00:02:47",
+          "global_timestamp": "00:22:42 - 00:22:45",
+          "rag_description": "Commentary: Topac from Bernardo Silva finds Guerrero.",
+          "full_description": "Topac from Bernardo Silva finds Guerrero."
+        },
+        {
+          "utterance_number": 33,
+          "segment_id": 5,
+          "local_timestamp": "00:02:47 - 00:02:50",
+          "global_timestamp": "00:22:45 - 00:22:48",
+          "rag_description": "Commentary: Ronaldo's in the middle.",
+          "full_description": "Ronaldo's in the middle."
+        },
+        {
+          "utterance_number": 34,
+          "segment_id": 5,
+          "local_timestamp": "00:02:53 - 00:02:55",
+          "global_timestamp": "00:22:51 - 00:22:53",
+          "rag_description": "Commentary: Long ball forward.",
+          "full_description": "Long ball forward."
+        },
+        {
+          "utterance_number": 35,
+          "segment_id": 5,
+          "local_timestamp": "00:02:55 - 00:02:57",
+          "global_timestamp": "00:22:53 - 00:22:55",
+          "rag_description": "Commentary: Looking for Diego Costa up against Pepe.",
+          "full_description": "Looking for Diego Costa up against Pepe."
+        },
+        {
+          "utterance_number": 36,
+          "segment_id": 5,
+          "local_timestamp": "00:02:57 - 00:03:00",
+          "global_timestamp": "00:22:55 - 00:22:58",
+          "rag_description": "Commentary: Pepe gets the head up and goes down.",
+          "full_description": "Pepe gets the head up and goes down."
+        },
+        {
+          "utterance_number": 37,
+          "segment_id": 5,
+          "local_timestamp": "00:03:00 - 00:03:02",
+          "global_timestamp": "00:22:58 - 00:23:00",
+          "rag_description": "Commentary: Play continues. It's Diego Costa.",
+          "full_description": "Play continues. It's Diego Costa."
+        },
+        {
+          "utterance_number": 38,
+          "segment_id": 5,
+          "local_timestamp": "00:03:02 - 00:03:04",
+          "global_timestamp": "00:23:00 - 00:23:02",
+          "rag_description": "Commentary: Can he get the shot away?",
+          "full_description": "Can he get the shot away?"
+        },
+        {
+          "utterance_number": 39,
+          "segment_id": 5,
+          "local_timestamp": "00:03:04 - 00:03:06",
+          "global_timestamp": "00:23:02 - 00:23:04",
+          "rag_description": "Commentary: Costa scores!",
+          "full_description": "Costa scores!"
+        },
+        {
+          "utterance_number": 40,
+          "segment_id": 5,
+          "local_timestamp": "00:03:09 - 00:03:12",
+          "global_timestamp": "00:23:07 - 00:23:10",
+          "rag_description": "Commentary: And while Spain celebrate,",
+          "full_description": "And while Spain celebrate,"
+        },
+        {
+          "utterance_number": 41,
+          "segment_id": 5,
+          "local_timestamp": "00:03:12 - 00:03:17",
+          "global_timestamp": "00:23:10 - 00:23:15",
+          "rag_description": "Commentary: Portugal are extremely upset about the manner of that goal.",
+          "full_description": "Portugal are extremely upset about the manner of that goal."
+        },
+        {
+          "utterance_number": 42,
+          "segment_id": 5,
+          "local_timestamp": "00:03:17 - 00:03:21",
+          "global_timestamp": "00:23:15 - 00:23:19",
+          "rag_description": "Commentary: They felt there was a clear foul there on Pepe.",
+          "full_description": "They felt there was a clear foul there on Pepe."
+        },
+        {
+          "utterance_number": 43,
+          "segment_id": 5,
+          "local_timestamp": "00:03:24 - 00:03:26",
+          "global_timestamp": "00:23:22 - 00:23:24",
+          "rag_description": "Commentary: They are very upset.",
+          "full_description": "They are very upset."
+        },
+        {
+          "utterance_number": 44,
+          "segment_id": 5,
+          "local_timestamp": "00:03:29 - 00:03:32",
+          "global_timestamp": "00:23:27 - 00:23:30",
+          "rag_description": "Commentary: There you can see the Portuguese defender",
+          "full_description": "There you can see the Portuguese defender"
+        },
+        {
+          "utterance_number": 45,
+          "segment_id": 5,
+          "local_timestamp": "00:03:32 - 00:03:34",
+          "global_timestamp": "00:23:30 - 00:23:32",
+          "rag_description": "Commentary: down on the ground.",
+          "full_description": "down on the ground."
+        },
+        {
+          "utterance_number": 46,
+          "segment_id": 5,
+          "local_timestamp": "00:03:34 - 00:03:36",
+          "global_timestamp": "00:23:32 - 00:23:34",
+          "rag_description": "Commentary: But what brilliant skill",
+          "full_description": "But what brilliant skill"
+        },
+        {
+          "utterance_number": 47,
+          "segment_id": 5,
+          "local_timestamp": "00:03:37 - 00:03:41",
+          "global_timestamp": "00:23:35 - 00:23:39",
+          "rag_description": "Commentary: VAR is checking for a potential foul",
+          "full_description": "VAR is checking for a potential foul"
+        },
+        {
+          "utterance_number": 48,
+          "segment_id": 5,
+          "local_timestamp": "00:03:41 - 00:03:44",
+          "global_timestamp": "00:23:39 - 00:23:42",
+          "rag_description": "Commentary: by Diego Costa.",
+          "full_description": "by Diego Costa."
+        },
+        {
+          "utterance_number": 49,
+          "segment_id": 5,
+          "local_timestamp": "00:03:46 - 00:03:49",
+          "global_timestamp": "00:23:44 - 00:23:47",
+          "rag_description": "Commentary: That check has been completed.",
+          "full_description": "That check has been completed."
+        },
+        {
+          "utterance_number": 50,
+          "segment_id": 5,
+          "local_timestamp": "00:03:50 - 00:03:53",
+          "global_timestamp": "00:23:48 - 00:23:51",
+          "rag_description": "Commentary: And the goal stands.",
+          "full_description": "And the goal stands."
+        },
+        {
+          "utterance_number": 51,
+          "segment_id": 5,
+          "local_timestamp": "00:03:57 - 00:04:00",
+          "global_timestamp": "00:23:55 - 00:23:58",
+          "rag_description": "Commentary: There's the incident. Pepe goes down.",
+          "full_description": "There's the incident. Pepe goes down."
+        },
+        {
+          "utterance_number": 52,
+          "segment_id": 5,
+          "local_timestamp": "00:04:02 - 00:04:04",
+          "global_timestamp": "00:24:00 - 00:24:02",
+          "rag_description": "Commentary: Look how many defenders are back here for Portugal.",
+          "full_description": "Look how many defenders are back here for Portugal."
+        },
+        {
+          "utterance_number": 53,
+          "segment_id": 5,
+          "local_timestamp": "00:04:04 - 00:04:07",
+          "global_timestamp": "00:24:02 - 00:24:05",
+          "rag_description": "Commentary: Diego Costa all on his own.",
+          "full_description": "Diego Costa all on his own."
+        },
+        {
+          "utterance_number": 54,
+          "segment_id": 5,
+          "local_timestamp": "00:04:08 - 00:04:11",
+          "global_timestamp": "00:24:06 - 00:24:09",
+          "rag_description": "Commentary: Unable to fire it past Rui Patricio.",
+          "full_description": "Unable to fire it past Rui Patricio."
+        },
+        {
+          "utterance_number": 55,
+          "segment_id": 5,
+          "local_timestamp": "00:04:13 - 00:04:17",
+          "global_timestamp": "00:24:11 - 00:24:15",
+          "rag_description": "Commentary: Portugal won. Spain won.",
+          "full_description": "Portugal won. Spain won."
+        },
+        {
+          "utterance_number": 56,
+          "segment_id": 5,
+          "local_timestamp": "00:04:18 - 00:04:21",
+          "global_timestamp": "00:24:16 - 00:24:19",
+          "rag_description": "Commentary: And this match, which promised so much,",
+          "full_description": "And this match, which promised so much,"
+        },
+        {
+          "utterance_number": 57,
+          "segment_id": 5,
+          "local_timestamp": "00:04:21 - 00:04:25",
+          "global_timestamp": "00:24:19 - 00:24:23",
+          "rag_description": "Commentary: is at the moment most certainly delivering.",
+          "full_description": "is at the moment most certainly delivering."
+        },
+        {
+          "utterance_number": 58,
+          "segment_id": 5,
+          "local_timestamp": "00:04:30 - 00:04:32",
+          "global_timestamp": "00:24:28 - 00:24:30",
+          "rag_description": "Commentary: Who was it it was saying a few minutes ago",
+          "full_description": "Who was it it was saying a few minutes ago"
+        },
+        {
+          "utterance_number": 59,
+          "segment_id": 5,
+          "local_timestamp": "00:04:32 - 00:04:35",
+          "global_timestamp": "00:24:30 - 00:24:33",
+          "rag_description": "Commentary: that Diego Costa hadn't had much service?",
+          "full_description": "that Diego Costa hadn't had much service?"
+        },
+        {
+          "utterance_number": 60,
+          "segment_id": 5,
+          "local_timestamp": "00:04:35 - 00:04:37",
+          "global_timestamp": "00:24:33 - 00:24:35",
+          "rag_description": "Commentary: Yeah, I'll admit that.",
+          "full_description": "Yeah, I'll admit that."
+        },
+        {
+          "utterance_number": 61,
+          "segment_id": 5,
+          "local_timestamp": "00:04:40 - 00:04:44",
+          "global_timestamp": "00:24:38 - 00:24:42",
+          "rag_description": "Commentary: It is still swelteringly hot here in Sachi.",
+          "full_description": "It is still swelteringly hot here in Sachi."
+        },
+        {
+          "utterance_number": 62,
+          "segment_id": 5,
+          "local_timestamp": "00:04:45 - 00:04:48",
+          "global_timestamp": "00:24:43 - 00:24:46",
+          "rag_description": "Commentary: Such a humid night.",
+          "full_description": "Such a humid night."
+        },
+        {
+          "utterance_number": 63,
+          "segment_id": 5,
+          "local_timestamp": "00:04:55 - 00:04:58",
+          "global_timestamp": "00:24:53 - 00:24:56",
+          "rag_description": "Commentary: But an in-strawling, engrossing.",
+          "full_description": "But an in-strawling, engrossing."
+        }
+      ]
+    },
+    {
+      "segment_info": {
+        "segment_id": 6,
+        "global_start_time": "00:24:57",
+        "global_end_time": "00:29:57",
+        "duration": "00:05:00",
+        "total_utterances": 65
+      },
+      "commentary_segments": [
+        {
+          "utterance_number": 1,
+          "segment_id": 6,
+          "local_timestamp": "00:00:00 - 00:00:06",
+          "global_timestamp": "00:24:57 - 00:25:04",
+          "rag_description": "Commentary: B fixture. Rocco and Iran, the other two teams in this group.",
+          "full_description": "B fixture. Rocco and Iran, the other two teams in this group."
+        },
+        {
+          "utterance_number": 2,
+          "segment_id": 6,
+          "local_timestamp": "00:00:10 - 00:00:11",
+          "global_timestamp": "00:25:07 - 00:25:08",
+          "rag_description": "Commentary: Isko.",
+          "full_description": "Isko."
+        },
+        {
+          "utterance_number": 3,
+          "segment_id": 6,
+          "local_timestamp": "00:00:14 - 00:00:18",
+          "global_timestamp": "00:25:11 - 00:25:16",
+          "rag_description": "Commentary: Alba. He is in iesta. Alba's continuing his run forward.",
+          "full_description": "Alba. He is in iesta. Alba's continuing his run forward."
+        },
+        {
+          "utterance_number": 4,
+          "segment_id": 6,
+          "local_timestamp": "00:00:20 - 00:00:23",
+          "global_timestamp": "00:25:17 - 00:25:21",
+          "rag_description": "Commentary: Oh, it's off the underside of the bar. Diego Costa, can he bundle it in?",
+          "full_description": "Oh, it's off the underside of the bar. Diego Costa, can he bundle it in?"
+        },
+        {
+          "utterance_number": 5,
+          "segment_id": 6,
+          "local_timestamp": "00:00:23 - 00:00:27",
+          "global_timestamp": "00:25:21 - 00:25:24",
+          "rag_description": "Commentary: Rui, Patricia with the save. Now the flag is up on this near side.",
+          "full_description": "Rui, Patricia with the save. Now the flag is up on this near side."
+        },
+        {
+          "utterance_number": 6,
+          "segment_id": 6,
+          "local_timestamp": "00:00:31 - 00:00:33",
+          "global_timestamp": "00:25:28 - 00:25:30",
+          "rag_description": "Commentary: And that may well have been for offside.",
+          "full_description": "And that may well have been for offside."
+        },
+        {
+          "utterance_number": 7,
+          "segment_id": 6,
+          "local_timestamp": "00:00:37 - 00:00:41",
+          "global_timestamp": "00:25:35 - 00:25:38",
+          "rag_description": "Commentary: Isko is asking for VAR to have a review of his shot.",
+          "full_description": "Isko is asking for VAR to have a review of his shot."
+        },
+        {
+          "utterance_number": 8,
+          "segment_id": 6,
+          "local_timestamp": "00:00:42 - 00:00:47",
+          "global_timestamp": "00:25:39 - 00:25:44",
+          "rag_description": "Commentary: But goal line technology would have alerted the referee to the fact that",
+          "full_description": "But goal line technology would have alerted the referee to the fact that"
+        },
+        {
+          "utterance_number": 9,
+          "segment_id": 6,
+          "local_timestamp": "00:00:47 - 00:00:49",
+          "global_timestamp": "00:25:44 - 00:25:46",
+          "rag_description": "Commentary: the ball had crossed the line.",
+          "full_description": "the ball had crossed the line."
+        },
+        {
+          "utterance_number": 10,
+          "segment_id": 6,
+          "local_timestamp": "00:00:52 - 00:00:54",
+          "global_timestamp": "00:25:49 - 00:25:51",
+          "rag_description": "Commentary: What an effort that was from Isko.",
+          "full_description": "What an effort that was from Isko."
+        },
+        {
+          "utterance_number": 11,
+          "segment_id": 6,
+          "local_timestamp": "00:01:01 - 00:01:04",
+          "global_timestamp": "00:25:58 - 00:26:02",
+          "rag_description": "Commentary: Spain stung by that early Portuguese penalty.",
+          "full_description": "Spain stung by that early Portuguese penalty."
+        },
+        {
+          "utterance_number": 12,
+          "segment_id": 6,
+          "local_timestamp": "00:01:05 - 00:01:06",
+          "global_timestamp": "00:26:03 - 00:26:04",
+          "rag_description": "Commentary: Right back in it.",
+          "full_description": "Right back in it."
+        },
+        {
+          "utterance_number": 13,
+          "segment_id": 6,
+          "local_timestamp": "00:01:16 - 00:01:20",
+          "global_timestamp": "00:26:14 - 00:26:17",
+          "rag_description": "Commentary: The momentum of this match at the moment, certainly with the team in white.",
+          "full_description": "The momentum of this match at the moment, certainly with the team in white."
+        },
+        {
+          "utterance_number": 14,
+          "segment_id": 6,
+          "local_timestamp": "00:01:22 - 00:01:23",
+          "global_timestamp": "00:26:20 - 00:26:21",
+          "rag_description": "Commentary: Alba.",
+          "full_description": "Alba."
+        },
+        {
+          "utterance_number": 15,
+          "segment_id": 6,
+          "local_timestamp": "00:01:25 - 00:01:26",
+          "global_timestamp": "00:26:23 - 00:26:24",
+          "rag_description": "Commentary: Ramos.",
+          "full_description": "Ramos."
+        },
+        {
+          "utterance_number": 16,
+          "segment_id": 6,
+          "local_timestamp": "00:01:31 - 00:01:32",
+          "global_timestamp": "00:26:28 - 00:26:29",
+          "rag_description": "Commentary: OK.",
+          "full_description": "OK."
+        },
+        {
+          "utterance_number": 17,
+          "segment_id": 6,
+          "local_timestamp": "00:01:41 - 00:01:42",
+          "global_timestamp": "00:26:38 - 00:26:39",
+          "rag_description": "Commentary: Alba.",
+          "full_description": "Alba."
+        },
+        {
+          "utterance_number": 18,
+          "segment_id": 6,
+          "local_timestamp": "00:01:42 - 00:01:43",
+          "global_timestamp": "00:26:39 - 00:26:40",
+          "rag_description": "Commentary: Silver.",
+          "full_description": "Silver."
+        },
+        {
+          "utterance_number": 19,
+          "segment_id": 6,
+          "local_timestamp": "00:01:44 - 00:01:45",
+          "global_timestamp": "00:26:41 - 00:26:42",
+          "rag_description": "Commentary: Diego Costa.",
+          "full_description": "Diego Costa."
+        },
+        {
+          "utterance_number": 20,
+          "segment_id": 6,
+          "local_timestamp": "00:01:48 - 00:01:49",
+          "global_timestamp": "00:26:45 - 00:26:46",
+          "rag_description": "Commentary: All one fairly.",
+          "full_description": "All one fairly."
+        },
+        {
+          "utterance_number": 21,
+          "segment_id": 6,
+          "local_timestamp": "00:01:54 - 00:01:57",
+          "global_timestamp": "00:26:51 - 00:26:54",
+          "rag_description": "Commentary: Well, you can see there, Bruno Fernandez.",
+          "full_description": "Well, you can see there, Bruno Fernandez."
+        },
+        {
+          "utterance_number": 22,
+          "segment_id": 6,
+          "local_timestamp": "00:01:57 - 00:01:59",
+          "global_timestamp": "00:26:54 - 00:26:56",
+          "rag_description": "Commentary: It's going to be far cautioned.",
+          "full_description": "It's going to be far cautioned."
+        },
+        {
+          "utterance_number": 23,
+          "segment_id": 6,
+          "local_timestamp": "00:02:00 - 00:02:02",
+          "global_timestamp": "00:26:57 - 00:26:59",
+          "rag_description": "Commentary: Well, he thought it was a fair challenge.",
+          "full_description": "Well, he thought it was a fair challenge."
+        },
+        {
+          "utterance_number": 24,
+          "segment_id": 6,
+          "local_timestamp": "00:02:07 - 00:02:10",
+          "global_timestamp": "00:27:04 - 00:27:07",
+          "rag_description": "Commentary: And initially it didn't appear as though the assistant on this near side",
+          "full_description": "And initially it didn't appear as though the assistant on this near side"
+        },
+        {
+          "utterance_number": 25,
+          "segment_id": 6,
+          "local_timestamp": "00:02:10 - 00:02:11",
+          "global_timestamp": "00:27:07 - 00:27:08",
+          "rag_description": "Commentary: had raised his flag.",
+          "full_description": "had raised his flag."
+        },
+        {
+          "utterance_number": 26,
+          "segment_id": 6,
+          "local_timestamp": "00:02:15 - 00:02:16",
+          "global_timestamp": "00:27:12 - 00:27:13",
+          "rag_description": "Commentary: Bruno Fernandez.",
+          "full_description": "Bruno Fernandez."
+        },
+        {
+          "utterance_number": 27,
+          "segment_id": 6,
+          "local_timestamp": "00:02:18 - 00:02:19",
+          "global_timestamp": "00:27:15 - 00:27:16",
+          "rag_description": "Commentary: It is shown yellow.",
+          "full_description": "It is shown yellow."
+        },
+        {
+          "utterance_number": 28,
+          "segment_id": 6,
+          "local_timestamp": "00:02:20 - 00:02:21",
+          "global_timestamp": "00:27:17 - 00:27:18",
+          "rag_description": "Commentary: Silver and Cooke.",
+          "full_description": "Silver and Cooke."
+        },
+        {
+          "utterance_number": 29,
+          "segment_id": 6,
+          "local_timestamp": "00:02:23 - 00:02:25",
+          "global_timestamp": "00:27:20 - 00:27:22",
+          "rag_description": "Commentary: Standing behind this free kick for Spain.",
+          "full_description": "Standing behind this free kick for Spain."
+        },
+        {
+          "utterance_number": 30,
+          "segment_id": 6,
+          "local_timestamp": "00:02:28 - 00:02:29",
+          "global_timestamp": "00:27:25 - 00:27:26",
+          "rag_description": "Commentary: Everybody back for Portugal.",
+          "full_description": "Everybody back for Portugal."
+        },
+        {
+          "utterance_number": 31,
+          "segment_id": 6,
+          "local_timestamp": "00:02:32 - 00:02:33",
+          "global_timestamp": "00:27:29 - 00:27:30",
+          "rag_description": "Commentary: Silver.",
+          "full_description": "Silver."
+        },
+        {
+          "utterance_number": 32,
+          "segment_id": 6,
+          "local_timestamp": "00:02:35 - 00:02:36",
+          "global_timestamp": "00:27:32 - 00:27:33",
+          "rag_description": "Commentary: And then the ball is up.",
+          "full_description": "And then the ball is up."
+        },
+        {
+          "utterance_number": 33,
+          "segment_id": 6,
+          "local_timestamp": "00:02:37 - 00:02:38",
+          "global_timestamp": "00:27:34 - 00:27:35",
+          "rag_description": "Commentary: And then the ball is up.",
+          "full_description": "And then the ball is up."
+        },
+        {
+          "utterance_number": 34,
+          "segment_id": 6,
+          "local_timestamp": "00:02:39 - 00:02:40",
+          "global_timestamp": "00:27:36 - 00:27:37",
+          "rag_description": "Commentary: And then the ball is up.",
+          "full_description": "And then the ball is up."
+        },
+        {
+          "utterance_number": 35,
+          "segment_id": 6,
+          "local_timestamp": "00:02:41 - 00:02:42",
+          "global_timestamp": "00:27:38 - 00:27:39",
+          "rag_description": "Commentary: And then the ball is up.",
+          "full_description": "And then the ball is up."
+        },
+        {
+          "utterance_number": 36,
+          "segment_id": 6,
+          "local_timestamp": "00:02:43 - 00:02:44",
+          "global_timestamp": "00:27:40 - 00:27:41",
+          "rag_description": "Commentary: And then the ball is up.",
+          "full_description": "And then the ball is up."
+        },
+        {
+          "utterance_number": 37,
+          "segment_id": 6,
+          "local_timestamp": "00:02:45 - 00:02:46",
+          "global_timestamp": "00:27:42 - 00:27:43",
+          "rag_description": "Commentary: And then the ball is up.",
+          "full_description": "And then the ball is up."
+        },
+        {
+          "utterance_number": 38,
+          "segment_id": 6,
+          "local_timestamp": "00:02:46 - 00:02:47",
+          "global_timestamp": "00:27:43 - 00:27:44",
+          "rag_description": "Commentary: Silver.",
+          "full_description": "Silver."
+        },
+        {
+          "utterance_number": 39,
+          "segment_id": 6,
+          "local_timestamp": "00:02:51 - 00:02:54",
+          "global_timestamp": "00:27:48 - 00:27:51",
+          "rag_description": "Commentary: Look at the angle of his run-up if it is to be him.",
+          "full_description": "Look at the angle of his run-up if it is to be him."
+        },
+        {
+          "utterance_number": 40,
+          "segment_id": 6,
+          "local_timestamp": "00:02:54 - 00:02:56",
+          "global_timestamp": "00:27:51 - 00:27:53",
+          "rag_description": "Commentary: Top corner will be the...",
+          "full_description": "Top corner will be the..."
+        },
+        {
+          "utterance_number": 41,
+          "segment_id": 6,
+          "local_timestamp": "00:02:57 - 00:02:58",
+          "global_timestamp": "00:27:54 - 00:27:55",
+          "rag_description": "Commentary: Target, you would presume.",
+          "full_description": "Target, you would presume."
+        },
+        {
+          "utterance_number": 42,
+          "segment_id": 6,
+          "local_timestamp": "00:02:58 - 00:02:59",
+          "global_timestamp": "00:27:55 - 00:27:56",
+          "rag_description": "Commentary: Ramos.",
+          "full_description": "Ramos."
+        },
+        {
+          "utterance_number": 43,
+          "segment_id": 6,
+          "local_timestamp": "00:02:59 - 00:03:00",
+          "global_timestamp": "00:27:56 - 00:27:57",
+          "rag_description": "Commentary: Waiting in the penalty area.",
+          "full_description": "Waiting in the penalty area."
+        },
+        {
+          "utterance_number": 44,
+          "segment_id": 6,
+          "local_timestamp": "00:03:00 - 00:03:02",
+          "global_timestamp": "00:27:57 - 00:27:59",
+          "rag_description": "Commentary: At the moment he is just in an offside position.",
+          "full_description": "At the moment he is just in an offside position."
+        },
+        {
+          "utterance_number": 45,
+          "segment_id": 6,
+          "local_timestamp": "00:03:16 - 00:03:17",
+          "global_timestamp": "00:28:13 - 00:28:14",
+          "rag_description": "Commentary: And Nation awaits.",
+          "full_description": "And Nation awaits."
+        },
+        {
+          "utterance_number": 46,
+          "segment_id": 6,
+          "local_timestamp": "00:03:18 - 00:03:19",
+          "global_timestamp": "00:28:15 - 00:28:16",
+          "rag_description": "Commentary: And then the ball is up.",
+          "full_description": "And then the ball is up."
+        },
+        {
+          "utterance_number": 47,
+          "segment_id": 6,
+          "local_timestamp": "00:03:23 - 00:03:24",
+          "global_timestamp": "00:28:20 - 00:28:21",
+          "rag_description": "Commentary: And then the ball is up.",
+          "full_description": "And then the ball is up."
+        },
+        {
+          "utterance_number": 48,
+          "segment_id": 6,
+          "local_timestamp": "00:03:24 - 00:03:26",
+          "global_timestamp": "00:28:21 - 00:28:23",
+          "rag_description": "Commentary: And the national waits.",
+          "full_description": "And the national waits."
+        },
+        {
+          "utterance_number": 49,
+          "segment_id": 6,
+          "local_timestamp": "00:03:26 - 00:03:28",
+          "global_timestamp": "00:28:23 - 00:28:25",
+          "rag_description": "Commentary: Silver straight into the wall.",
+          "full_description": "Silver straight into the wall."
+        },
+        {
+          "utterance_number": 50,
+          "segment_id": 6,
+          "local_timestamp": "00:03:34 - 00:03:36",
+          "global_timestamp": "00:28:31 - 00:28:33",
+          "rag_description": "Commentary: Clarence not too far, though.",
+          "full_description": "Clarence not too far, though."
+        },
+        {
+          "utterance_number": 51,
+          "segment_id": 6,
+          "local_timestamp": "00:03:36 - 00:03:37",
+          "global_timestamp": "00:28:33 - 00:28:34",
+          "rag_description": "Commentary: Koke.",
+          "full_description": "Koke."
+        },
+        {
+          "utterance_number": 52,
+          "segment_id": 6,
+          "local_timestamp": "00:03:39 - 00:03:41",
+          "global_timestamp": "00:28:36 - 00:28:38",
+          "rag_description": "Commentary: Easily away by Font.",
+          "full_description": "Easily away by Font."
+        },
+        {
+          "utterance_number": 53,
+          "segment_id": 6,
+          "local_timestamp": "00:03:43 - 00:03:44",
+          "global_timestamp": "00:28:40 - 00:28:41",
+          "rag_description": "Commentary: Gredesh.",
+          "full_description": "Gredesh."
+        },
+        {
+          "utterance_number": 54,
+          "segment_id": 6,
+          "local_timestamp": "00:03:51 - 00:03:53",
+          "global_timestamp": "00:28:48 - 00:28:50",
+          "rag_description": "Commentary: Too high for Ronaldo, taken down by",
+          "full_description": "Too high for Ronaldo, taken down by"
+        },
+        {
+          "utterance_number": 55,
+          "segment_id": 6,
+          "local_timestamp": "00:03:53 - 00:03:55",
+          "global_timestamp": "00:28:50 - 00:28:52",
+          "rag_description": "Commentary: Silver.",
+          "full_description": "Silver."
+        },
+        {
+          "utterance_number": 56,
+          "segment_id": 6,
+          "local_timestamp": "00:03:55 - 00:03:57",
+          "global_timestamp": "00:28:52 - 00:28:54",
+          "rag_description": "Commentary: Geredo made the run on the overlap.",
+          "full_description": "Geredo made the run on the overlap."
+        },
+        {
+          "utterance_number": 57,
+          "segment_id": 6,
+          "local_timestamp": "00:03:57 - 00:03:59",
+          "global_timestamp": "00:28:54 - 00:28:56",
+          "rag_description": "Commentary: Here he is, the full back.",
+          "full_description": "Here he is, the full back."
+        },
+        {
+          "utterance_number": 58,
+          "segment_id": 6,
+          "local_timestamp": "00:04:02 - 00:04:04",
+          "global_timestamp": "00:28:59 - 00:29:01",
+          "rag_description": "Commentary: Ronaldo. Here's William.",
+          "full_description": "Ronaldo. Here's William."
+        },
+        {
+          "utterance_number": 59,
+          "segment_id": 6,
+          "local_timestamp": "00:04:06 - 00:04:08",
+          "global_timestamp": "00:29:03 - 00:29:05",
+          "rag_description": "Commentary: Fernandez.",
+          "full_description": "Fernandez."
+        },
+        {
+          "utterance_number": 60,
+          "segment_id": 6,
+          "local_timestamp": "00:04:23 - 00:04:32",
+          "global_timestamp": "00:29:20 - 00:29:29",
+          "rag_description": "Commentary: A bit of a busy evening so far, for the Italian official.",
+          "full_description": "A bit of a busy evening so far, for the Italian official."
+        },
+        {
+          "utterance_number": 61,
+          "segment_id": 6,
+          "local_timestamp": "00:04:32 - 00:04:36",
+          "global_timestamp": "00:29:29 - 00:29:33",
+          "rag_description": "Commentary: And as you can see here, the ball, the hole of the ball",
+          "full_description": "And as you can see here, the ball, the hole of the ball"
+        },
+        {
+          "utterance_number": 62,
+          "segment_id": 6,
+          "local_timestamp": "00:04:36 - 00:04:38",
+          "global_timestamp": "00:29:33 - 00:29:35",
+          "rag_description": "Commentary: did not cross the line.",
+          "full_description": "did not cross the line."
+        },
+        {
+          "utterance_number": 63,
+          "segment_id": 6,
+          "local_timestamp": "00:04:41 - 00:04:44",
+          "global_timestamp": "00:29:38 - 00:29:41",
+          "rag_description": "Commentary: Spain felt there might have been a handball there from Font.",
+          "full_description": "Spain felt there might have been a handball there from Font."
+        },
+        {
+          "utterance_number": 64,
+          "segment_id": 6,
+          "local_timestamp": "00:04:46 - 00:04:51",
+          "global_timestamp": "00:29:43 - 00:29:48",
+          "rag_description": "Commentary: Flag was up for an offside against Costa anyway.",
+          "full_description": "Flag was up for an offside against Costa anyway."
+        },
+        {
+          "utterance_number": 65,
+          "segment_id": 6,
+          "local_timestamp": "00:04:51 - 00:04:56",
+          "global_timestamp": "00:29:48 - 00:29:53",
+          "rag_description": "Commentary: Here is Costa, scorer of the Spanish equalizer. This is Font.",
+          "full_description": "Here is Costa, scorer of the Spanish equalizer. This is Font."
+        }
+      ]
+    },
+    {
+      "segment_info": {
+        "segment_id": 7,
+        "global_start_time": "00:29:57",
+        "global_end_time": "00:34:56",
+        "duration": "00:04:59",
+        "total_utterances": 72
+      },
+      "commentary_segments": [
+        {
+          "utterance_number": 1,
+          "segment_id": 7,
+          "local_timestamp": "00:00:00 - 00:00:02",
+          "global_timestamp": "00:29:57 - 00:29:59",
+          "rag_description": "Commentary: The last few minutes...",
+          "full_description": "The last few minutes..."
+        },
+        {
+          "utterance_number": 2,
+          "segment_id": 7,
+          "local_timestamp": "00:00:02 - 00:00:04",
+          "global_timestamp": "00:29:59 - 00:30:01",
+          "rag_description": "Commentary: Yes, there you go.",
+          "full_description": "Yes, there you go."
+        },
+        {
+          "utterance_number": 3,
+          "segment_id": 7,
+          "local_timestamp": "00:00:04 - 00:00:06",
+          "global_timestamp": "00:30:01 - 00:30:03",
+          "rag_description": "Commentary: Costa's equaliser after 24 minutes.",
+          "full_description": "Costa's equaliser after 24 minutes."
+        },
+        {
+          "utterance_number": 4,
+          "segment_id": 7,
+          "local_timestamp": "00:00:06 - 00:00:08",
+          "global_timestamp": "00:30:03 - 00:30:05",
+          "rag_description": "Commentary: His first shots on target",
+          "full_description": "His first shots on target"
+        },
+        {
+          "utterance_number": 5,
+          "segment_id": 7,
+          "local_timestamp": "00:00:08 - 00:00:10",
+          "global_timestamp": "00:30:05 - 00:30:07",
+          "rag_description": "Commentary: at a World Cup.",
+          "full_description": "at a World Cup."
+        },
+        {
+          "utterance_number": 6,
+          "segment_id": 7,
+          "local_timestamp": "00:00:16 - 00:00:18",
+          "global_timestamp": "00:30:13 - 00:30:15",
+          "rag_description": "Commentary: Might be a little fresher than the rest.",
+          "full_description": "Might be a little fresher than the rest."
+        },
+        {
+          "utterance_number": 7,
+          "segment_id": 7,
+          "local_timestamp": "00:00:18 - 00:00:20",
+          "global_timestamp": "00:30:15 - 00:30:17",
+          "rag_description": "Commentary: He didn't play for six months at the end of last year.",
+          "full_description": "He didn't play for six months at the end of last year."
+        },
+        {
+          "utterance_number": 8,
+          "segment_id": 7,
+          "local_timestamp": "00:00:20 - 00:00:22",
+          "global_timestamp": "00:30:17 - 00:30:19",
+          "rag_description": "Commentary: You remember after his dispute",
+          "full_description": "You remember after his dispute"
+        },
+        {
+          "utterance_number": 9,
+          "segment_id": 7,
+          "local_timestamp": "00:00:22 - 00:00:24",
+          "global_timestamp": "00:30:19 - 00:30:21",
+          "rag_description": "Commentary: with his former club Chelsea in England",
+          "full_description": "with his former club Chelsea in England"
+        },
+        {
+          "utterance_number": 10,
+          "segment_id": 7,
+          "local_timestamp": "00:00:24 - 00:00:26",
+          "global_timestamp": "00:30:21 - 00:30:23",
+          "rag_description": "Commentary: before moving back to his former club",
+          "full_description": "before moving back to his former club"
+        },
+        {
+          "utterance_number": 11,
+          "segment_id": 7,
+          "local_timestamp": "00:00:26 - 00:00:28",
+          "global_timestamp": "00:30:23 - 00:30:25",
+          "rag_description": "Commentary: Atletico Madrid.",
+          "full_description": "Atletico Madrid."
+        },
+        {
+          "utterance_number": 12,
+          "segment_id": 7,
+          "local_timestamp": "00:00:30 - 00:00:32",
+          "global_timestamp": "00:30:27 - 00:30:29",
+          "rag_description": "Commentary: Incidentally, this",
+          "full_description": "Incidentally, this"
+        },
+        {
+          "utterance_number": 13,
+          "segment_id": 7,
+          "local_timestamp": "00:00:32 - 00:00:34",
+          "global_timestamp": "00:30:29 - 00:30:31",
+          "rag_description": "Commentary: Spanish squad",
+          "full_description": "Spanish squad"
+        },
+        {
+          "utterance_number": 14,
+          "segment_id": 7,
+          "local_timestamp": "00:00:34 - 00:00:36",
+          "global_timestamp": "00:30:31 - 00:30:33",
+          "rag_description": "Commentary: have played an awful lot",
+          "full_description": "have played an awful lot"
+        },
+        {
+          "utterance_number": 15,
+          "segment_id": 7,
+          "local_timestamp": "00:00:36 - 00:00:38",
+          "global_timestamp": "00:30:33 - 00:30:35",
+          "rag_description": "Commentary: of club football over the last year.",
+          "full_description": "of club football over the last year."
+        },
+        {
+          "utterance_number": 16,
+          "segment_id": 7,
+          "local_timestamp": "00:00:38 - 00:00:40",
+          "global_timestamp": "00:30:35 - 00:30:37",
+          "rag_description": "Commentary: Spain's squad have played more club football",
+          "full_description": "Spain's squad have played more club football"
+        },
+        {
+          "utterance_number": 17,
+          "segment_id": 7,
+          "local_timestamp": "00:00:40 - 00:00:42",
+          "global_timestamp": "00:30:37 - 00:30:39",
+          "rag_description": "Commentary: last season than any other",
+          "full_description": "last season than any other"
+        },
+        {
+          "utterance_number": 18,
+          "segment_id": 7,
+          "local_timestamp": "00:00:42 - 00:00:44",
+          "global_timestamp": "00:30:39 - 00:30:41",
+          "rag_description": "Commentary: World Cup nation.",
+          "full_description": "World Cup nation."
+        },
+        {
+          "utterance_number": 19,
+          "segment_id": 7,
+          "local_timestamp": "00:00:44 - 00:00:46",
+          "global_timestamp": "00:30:41 - 00:30:43",
+          "rag_description": "Commentary: A total of 85,554 minutes",
+          "full_description": "A total of 85,554 minutes"
+        },
+        {
+          "utterance_number": 20,
+          "segment_id": 7,
+          "local_timestamp": "00:00:46 - 00:00:48",
+          "global_timestamp": "00:30:43 - 00:30:45",
+          "rag_description": "Commentary: between the 23 of them.",
+          "full_description": "between the 23 of them."
+        },
+        {
+          "utterance_number": 21,
+          "segment_id": 7,
+          "local_timestamp": "00:00:48 - 00:00:50",
+          "global_timestamp": "00:30:45 - 00:30:47",
+          "rag_description": "Commentary: He's going.",
+          "full_description": "He's going."
+        },
+        {
+          "utterance_number": 22,
+          "segment_id": 7,
+          "local_timestamp": "00:00:50 - 00:00:52",
+          "global_timestamp": "00:30:47 - 00:30:49",
+          "rag_description": "Commentary: He's going to keep that in",
+          "full_description": "He's going to keep that in"
+        },
+        {
+          "utterance_number": 23,
+          "segment_id": 7,
+          "local_timestamp": "00:00:52 - 00:00:54",
+          "global_timestamp": "00:30:49 - 00:30:51",
+          "rag_description": "Commentary: and does so.",
+          "full_description": "and does so."
+        },
+        {
+          "utterance_number": 24,
+          "segment_id": 7,
+          "local_timestamp": "00:00:54 - 00:00:56",
+          "global_timestamp": "00:30:51 - 00:30:53",
+          "rag_description": "Commentary: He's away by Cedric.",
+          "full_description": "He's away by Cedric."
+        },
+        {
+          "utterance_number": 25,
+          "segment_id": 7,
+          "local_timestamp": "00:00:56 - 00:00:58",
+          "global_timestamp": "00:30:53 - 00:30:55",
+          "rag_description": "Commentary: He's away by Cedric.",
+          "full_description": "He's away by Cedric."
+        },
+        {
+          "utterance_number": 26,
+          "segment_id": 7,
+          "local_timestamp": "00:00:58 - 00:01:00",
+          "global_timestamp": "00:30:55 - 00:30:57",
+          "rag_description": "Commentary: He's away by Cedric.",
+          "full_description": "He's away by Cedric."
+        },
+        {
+          "utterance_number": 27,
+          "segment_id": 7,
+          "local_timestamp": "00:01:00 - 00:01:02",
+          "global_timestamp": "00:30:57 - 00:30:59",
+          "rag_description": "Commentary: Iniesta.",
+          "full_description": "Iniesta."
+        },
+        {
+          "utterance_number": 28,
+          "segment_id": 7,
+          "local_timestamp": "00:01:02 - 00:01:04",
+          "global_timestamp": "00:30:59 - 00:31:01",
+          "rag_description": "Commentary: Iniesta.",
+          "full_description": "Iniesta."
+        },
+        {
+          "utterance_number": 29,
+          "segment_id": 7,
+          "local_timestamp": "00:01:04 - 00:01:06",
+          "global_timestamp": "00:31:01 - 00:31:03",
+          "rag_description": "Commentary: Silver's in a little bit of room",
+          "full_description": "Silver's in a little bit of room"
+        },
+        {
+          "utterance_number": 30,
+          "segment_id": 7,
+          "local_timestamp": "00:01:06 - 00:01:08",
+          "global_timestamp": "00:31:03 - 00:31:05",
+          "rag_description": "Commentary: on this set near side.",
+          "full_description": "on this set near side."
+        },
+        {
+          "utterance_number": 31,
+          "segment_id": 7,
+          "local_timestamp": "00:01:08 - 00:01:10",
+          "global_timestamp": "00:31:05 - 00:31:07",
+          "rag_description": "Commentary: Iniesta.",
+          "full_description": "Iniesta."
+        },
+        {
+          "utterance_number": 32,
+          "segment_id": 7,
+          "local_timestamp": "00:01:10 - 00:01:12",
+          "global_timestamp": "00:31:07 - 00:31:09",
+          "rag_description": "Commentary: Silver's in a little bit of room",
+          "full_description": "Silver's in a little bit of room"
+        },
+        {
+          "utterance_number": 33,
+          "segment_id": 7,
+          "local_timestamp": "00:01:12 - 00:01:14",
+          "global_timestamp": "00:31:09 - 00:31:11",
+          "rag_description": "Commentary: on this set near side.",
+          "full_description": "on this set near side."
+        },
+        {
+          "utterance_number": 34,
+          "segment_id": 7,
+          "local_timestamp": "00:01:14 - 00:01:16",
+          "global_timestamp": "00:31:11 - 00:31:13",
+          "rag_description": "Commentary: Iniesta.",
+          "full_description": "Iniesta."
+        },
+        {
+          "utterance_number": 35,
+          "segment_id": 7,
+          "local_timestamp": "00:01:16 - 00:01:18",
+          "global_timestamp": "00:31:13 - 00:31:15",
+          "rag_description": "Commentary: Piquet.",
+          "full_description": "Piquet."
+        },
+        {
+          "utterance_number": 36,
+          "segment_id": 7,
+          "local_timestamp": "00:01:22 - 00:01:24",
+          "global_timestamp": "00:31:19 - 00:31:21",
+          "rag_description": "Commentary: Iniesta.",
+          "full_description": "Iniesta."
+        },
+        {
+          "utterance_number": 37,
+          "segment_id": 7,
+          "local_timestamp": "00:01:24 - 00:01:26",
+          "global_timestamp": "00:31:21 - 00:31:23",
+          "rag_description": "Commentary: What an emotional farewell it was",
+          "full_description": "What an emotional farewell it was"
+        },
+        {
+          "utterance_number": 38,
+          "segment_id": 7,
+          "local_timestamp": "00:01:26 - 00:01:28",
+          "global_timestamp": "00:31:23 - 00:31:25",
+          "rag_description": "Commentary: for him from Barcelona",
+          "full_description": "for him from Barcelona"
+        },
+        {
+          "utterance_number": 39,
+          "segment_id": 7,
+          "local_timestamp": "00:01:28 - 00:01:30",
+          "global_timestamp": "00:31:25 - 00:31:27",
+          "rag_description": "Commentary: at the end of last season off to Pastis",
+          "full_description": "at the end of last season off to Pastis"
+        },
+        {
+          "utterance_number": 40,
+          "segment_id": 7,
+          "local_timestamp": "00:01:30 - 00:01:32",
+          "global_timestamp": "00:31:27 - 00:31:29",
+          "rag_description": "Commentary: New in Japan with Fiselkobe",
+          "full_description": "New in Japan with Fiselkobe"
+        },
+        {
+          "utterance_number": 41,
+          "segment_id": 7,
+          "local_timestamp": "00:01:32 - 00:01:34",
+          "global_timestamp": "00:31:29 - 00:31:31",
+          "rag_description": "Commentary: in the J-League.",
+          "full_description": "in the J-League."
+        },
+        {
+          "utterance_number": 42,
+          "segment_id": 7,
+          "local_timestamp": "00:01:36 - 00:01:38",
+          "global_timestamp": "00:31:33 - 00:31:35",
+          "rag_description": "Commentary: Frale on baskets.",
+          "full_description": "Frale on baskets."
+        },
+        {
+          "utterance_number": 43,
+          "segment_id": 7,
+          "local_timestamp": "00:02:16 - 00:02:18",
+          "global_timestamp": "00:32:13 - 00:32:15",
+          "rag_description": "Commentary: the Portuguese midfielder.",
+          "full_description": "the Portuguese midfielder."
+        },
+        {
+          "utterance_number": 44,
+          "segment_id": 7,
+          "local_timestamp": "00:02:20 - 00:02:24",
+          "global_timestamp": "00:32:17 - 00:32:21",
+          "rag_description": "Commentary: Portugal's throw was it? Well, the referee has brought play back.",
+          "full_description": "Portugal's throw was it? Well, the referee has brought play back."
+        },
+        {
+          "utterance_number": 45,
+          "segment_id": 7,
+          "local_timestamp": "00:02:26 - 00:02:31",
+          "global_timestamp": "00:32:23 - 00:32:28",
+          "rag_description": "Commentary: Bernardo Silva took the throw quickly and Cristiano Reinaldo was away.",
+          "full_description": "Bernardo Silva took the throw quickly and Cristiano Reinaldo was away."
+        },
+        {
+          "utterance_number": 46,
+          "segment_id": 7,
+          "local_timestamp": "00:02:34 - 00:02:39",
+          "global_timestamp": "00:32:31 - 00:32:36",
+          "rag_description": "Commentary: And actually the throw was awarded by the referee the other way.",
+          "full_description": "And actually the throw was awarded by the referee the other way."
+        },
+        {
+          "utterance_number": 47,
+          "segment_id": 7,
+          "local_timestamp": "00:02:41 - 00:02:43",
+          "global_timestamp": "00:32:38 - 00:32:40",
+          "rag_description": "Commentary: See here, the ball goes out of play.",
+          "full_description": "See here, the ball goes out of play."
+        },
+        {
+          "utterance_number": 48,
+          "segment_id": 7,
+          "local_timestamp": "00:02:44 - 00:02:48",
+          "global_timestamp": "00:32:41 - 00:32:45",
+          "rag_description": "Commentary: Take him very quickly by Silva, but erroneously.",
+          "full_description": "Take him very quickly by Silva, but erroneously."
+        },
+        {
+          "utterance_number": 49,
+          "segment_id": 7,
+          "local_timestamp": "00:03:00 - 00:03:01",
+          "global_timestamp": "00:32:57 - 00:32:58",
+          "rag_description": "Commentary: Nacho.",
+          "full_description": "Nacho."
+        },
+        {
+          "utterance_number": 50,
+          "segment_id": 7,
+          "local_timestamp": "00:03:13 - 00:03:14",
+          "global_timestamp": "00:33:10 - 00:33:11",
+          "rag_description": "Commentary: Isco.",
+          "full_description": "Isco."
+        },
+        {
+          "utterance_number": 51,
+          "segment_id": 7,
+          "local_timestamp": "00:03:18 - 00:03:19",
+          "global_timestamp": "00:33:15 - 00:33:16",
+          "rag_description": "Commentary: Here's Nacho.",
+          "full_description": "Here's Nacho."
+        },
+        {
+          "utterance_number": 52,
+          "segment_id": 7,
+          "local_timestamp": "00:03:25 - 00:03:27",
+          "global_timestamp": "00:33:22 - 00:33:24",
+          "rag_description": "Commentary: Patient build up from Spain.",
+          "full_description": "Patient build up from Spain."
+        },
+        {
+          "utterance_number": 53,
+          "segment_id": 7,
+          "local_timestamp": "00:03:27 - 00:03:30",
+          "global_timestamp": "00:33:24 - 00:33:27",
+          "rag_description": "Commentary: Cok\u00e9 trying to find a way through onto the end of his own pass.",
+          "full_description": "Cok\u00e9 trying to find a way through onto the end of his own pass."
+        },
+        {
+          "utterance_number": 54,
+          "segment_id": 7,
+          "local_timestamp": "00:03:33 - 00:03:35",
+          "global_timestamp": "00:33:30 - 00:33:32",
+          "rag_description": "Commentary: One back by Silva. Piquet.",
+          "full_description": "One back by Silva. Piquet."
+        },
+        {
+          "utterance_number": 55,
+          "segment_id": 7,
+          "local_timestamp": "00:03:37 - 00:03:41",
+          "global_timestamp": "00:33:34 - 00:33:38",
+          "rag_description": "Commentary: Been a good period of play for Spain since their equaliser.",
+          "full_description": "Been a good period of play for Spain since their equaliser."
+        },
+        {
+          "utterance_number": 56,
+          "segment_id": 7,
+          "local_timestamp": "00:03:41 - 00:03:43",
+          "global_timestamp": "00:33:38 - 00:33:40",
+          "rag_description": "Commentary: And he has to.",
+          "full_description": "And he has to."
+        },
+        {
+          "utterance_number": 57,
+          "segment_id": 7,
+          "local_timestamp": "00:03:44 - 00:03:47",
+          "global_timestamp": "00:33:41 - 00:33:44",
+          "rag_description": "Commentary: Alba made a run forward, he's in an offside position.",
+          "full_description": "Alba made a run forward, he's in an offside position."
+        },
+        {
+          "utterance_number": 58,
+          "segment_id": 7,
+          "local_timestamp": "00:03:49 - 00:03:51",
+          "global_timestamp": "00:33:46 - 00:33:48",
+          "rag_description": "Commentary: Silva loses out. Ramos.",
+          "full_description": "Silva loses out. Ramos."
+        },
+        {
+          "utterance_number": 59,
+          "segment_id": 7,
+          "local_timestamp": "00:03:54 - 00:03:55",
+          "global_timestamp": "00:33:51 - 00:33:52",
+          "rag_description": "Commentary: Cok\u00e9.",
+          "full_description": "Cok\u00e9."
+        },
+        {
+          "utterance_number": 60,
+          "segment_id": 7,
+          "local_timestamp": "00:03:56 - 00:03:57",
+          "global_timestamp": "00:33:53 - 00:33:54",
+          "rag_description": "Commentary: Here's Nacho.",
+          "full_description": "Here's Nacho."
+        },
+        {
+          "utterance_number": 61,
+          "segment_id": 7,
+          "local_timestamp": "00:04:06 - 00:04:07",
+          "global_timestamp": "00:34:03 - 00:34:04",
+          "rag_description": "Commentary: Ramos.",
+          "full_description": "Ramos."
+        },
+        {
+          "utterance_number": 62,
+          "segment_id": 7,
+          "local_timestamp": "00:04:07 - 00:04:08",
+          "global_timestamp": "00:34:04 - 00:34:05",
+          "rag_description": "Commentary: Ramos.",
+          "full_description": "Ramos."
+        },
+        {
+          "utterance_number": 63,
+          "segment_id": 7,
+          "local_timestamp": "00:04:10 - 00:04:11",
+          "global_timestamp": "00:34:07 - 00:34:08",
+          "rag_description": "Commentary: Isco.",
+          "full_description": "Isco."
+        },
+        {
+          "utterance_number": 64,
+          "segment_id": 7,
+          "local_timestamp": "00:04:15 - 00:04:17",
+          "global_timestamp": "00:34:12 - 00:34:14",
+          "rag_description": "Commentary: Lovely interplay from Spain.",
+          "full_description": "Lovely interplay from Spain."
+        },
+        {
+          "utterance_number": 65,
+          "segment_id": 7,
+          "local_timestamp": "00:04:17 - 00:04:19",
+          "global_timestamp": "00:34:14 - 00:34:16",
+          "rag_description": "Commentary: The little pullback in the Aster.",
+          "full_description": "The little pullback in the Aster."
+        },
+        {
+          "utterance_number": 66,
+          "segment_id": 7,
+          "local_timestamp": "00:04:26 - 00:04:30",
+          "global_timestamp": "00:34:23 - 00:34:27",
+          "rag_description": "Commentary: Problems mounting for Fernando Santos and Portugal.",
+          "full_description": "Problems mounting for Fernando Santos and Portugal."
+        },
+        {
+          "utterance_number": 67,
+          "segment_id": 7,
+          "local_timestamp": "00:04:31 - 00:04:35",
+          "global_timestamp": "00:34:28 - 00:34:32",
+          "rag_description": "Commentary: The man who scored the most important goal in Spanish football history.",
+          "full_description": "The man who scored the most important goal in Spanish football history."
+        },
+        {
+          "utterance_number": 68,
+          "segment_id": 7,
+          "local_timestamp": "00:04:35 - 00:04:37",
+          "global_timestamp": "00:34:32 - 00:34:34",
+          "rag_description": "Commentary: So close to putting them ahead here.",
+          "full_description": "So close to putting them ahead here."
+        },
+        {
+          "utterance_number": 69,
+          "segment_id": 7,
+          "local_timestamp": "00:04:37 - 00:04:40",
+          "global_timestamp": "00:34:34 - 00:34:37",
+          "rag_description": "Commentary: And it might just have got a little touch on the way through as well.",
+          "full_description": "And it might just have got a little touch on the way through as well."
+        },
+        {
+          "utterance_number": 70,
+          "segment_id": 7,
+          "local_timestamp": "00:04:49 - 00:04:53",
+          "global_timestamp": "00:34:46 - 00:34:50",
+          "rag_description": "Commentary: All three of Fernando Iero, the new coach, is international against Portugal.",
+          "full_description": "All three of Fernando Iero, the new coach, is international against Portugal."
+        },
+        {
+          "utterance_number": 71,
+          "segment_id": 7,
+          "local_timestamp": "00:04:53 - 00:04:55",
+          "global_timestamp": "00:34:50 - 00:34:52",
+          "rag_description": "Commentary: Ended as draws.",
+          "full_description": "Ended as draws."
+        },
+        {
+          "utterance_number": 72,
+          "segment_id": 7,
+          "local_timestamp": "00:04:57 - 00:04:58",
+          "global_timestamp": "00:34:54 - 00:34:55",
+          "rag_description": "Commentary: And he was a player.",
+          "full_description": "And he was a player."
+        }
+      ]
+    },
+    {
+      "segment_info": {
+        "segment_id": 8,
+        "global_start_time": "00:34:56",
+        "global_end_time": "00:39:55",
+        "duration": "00:04:59",
+        "total_utterances": 57
+      },
+      "commentary_segments": [
+        {
+          "utterance_number": 1,
+          "segment_id": 8,
+          "local_timestamp": "00:00:00 - 00:00:02",
+          "global_timestamp": "00:34:56 - 00:34:58",
+          "rag_description": "Commentary: FANS SHOUT",
+          "full_description": "FANS SHOUT"
+        },
+        {
+          "utterance_number": 2,
+          "segment_id": 8,
+          "local_timestamp": "00:00:04 - 00:00:08",
+          "global_timestamp": "00:35:00 - 00:35:04",
+          "rag_description": "Commentary: We have just under ten minutes plus stoppage time to go in the first half here.",
+          "full_description": "We have just under ten minutes plus stoppage time to go in the first half here."
+        },
+        {
+          "utterance_number": 3,
+          "segment_id": 8,
+          "local_timestamp": "00:00:10 - 00:00:13",
+          "global_timestamp": "00:35:06 - 00:35:09",
+          "rag_description": "Commentary: Portugal 1, Spain 1.",
+          "full_description": "Portugal 1, Spain 1."
+        },
+        {
+          "utterance_number": 4,
+          "segment_id": 8,
+          "local_timestamp": "00:00:22 - 00:00:24",
+          "global_timestamp": "00:35:18 - 00:35:20",
+          "rag_description": "Commentary: Iniesta.",
+          "full_description": "Iniesta."
+        },
+        {
+          "utterance_number": 5,
+          "segment_id": 8,
+          "local_timestamp": "00:00:26 - 00:00:28",
+          "global_timestamp": "00:35:22 - 00:35:24",
+          "rag_description": "Commentary: Isco.",
+          "full_description": "Isco."
+        },
+        {
+          "utterance_number": 6,
+          "segment_id": 8,
+          "local_timestamp": "00:00:30 - 00:00:34",
+          "global_timestamp": "00:35:26 - 00:35:30",
+          "rag_description": "Commentary: Can't get a shot away this time. Great Ash. The little back heel was a little blind.",
+          "full_description": "Can't get a shot away this time. Great Ash. The little back heel was a little blind."
+        },
+        {
+          "utterance_number": 7,
+          "segment_id": 8,
+          "local_timestamp": "00:00:34 - 00:00:39",
+          "global_timestamp": "00:35:30 - 00:35:35",
+          "rag_description": "Commentary: Wasn't quite sure who was behind him there. Fortunately for Portugal, William was.",
+          "full_description": "Wasn't quite sure who was behind him there. Fortunately for Portugal, William was."
+        },
+        {
+          "utterance_number": 8,
+          "segment_id": 8,
+          "local_timestamp": "00:00:44 - 00:00:46",
+          "global_timestamp": "00:35:40 - 00:35:42",
+          "rag_description": "Commentary: Pique.",
+          "full_description": "Pique."
+        },
+        {
+          "utterance_number": 9,
+          "segment_id": 8,
+          "local_timestamp": "00:00:49 - 00:00:51",
+          "global_timestamp": "00:35:45 - 00:35:47",
+          "rag_description": "Commentary: Costa setting off on a run.",
+          "full_description": "Costa setting off on a run."
+        },
+        {
+          "utterance_number": 10,
+          "segment_id": 8,
+          "local_timestamp": "00:01:00 - 00:01:02",
+          "global_timestamp": "00:35:56 - 00:35:58",
+          "rag_description": "Commentary: Rafael Guerrero.",
+          "full_description": "Rafael Guerrero."
+        },
+        {
+          "utterance_number": 11,
+          "segment_id": 8,
+          "local_timestamp": "00:01:04 - 00:01:10",
+          "global_timestamp": "00:36:00 - 00:36:06",
+          "rag_description": "Commentary: Not to suffer the same fate in Russia as he did last year at the Confederations Cup when he broke hi...",
+          "full_description": "Not to suffer the same fate in Russia as he did last year at the Confederations Cup when he broke his foot."
+        },
+        {
+          "utterance_number": 12,
+          "segment_id": 8,
+          "local_timestamp": "00:01:10 - 00:01:12",
+          "global_timestamp": "00:36:06 - 00:36:08",
+          "rag_description": "Commentary: The Portuguese left back.",
+          "full_description": "The Portuguese left back."
+        },
+        {
+          "utterance_number": 13,
+          "segment_id": 8,
+          "local_timestamp": "00:01:14 - 00:01:16",
+          "global_timestamp": "00:36:10 - 00:36:12",
+          "rag_description": "Commentary: Silva.",
+          "full_description": "Silva."
+        },
+        {
+          "utterance_number": 14,
+          "segment_id": 8,
+          "local_timestamp": "00:01:19 - 00:01:21",
+          "global_timestamp": "00:36:15 - 00:36:17",
+          "rag_description": "Commentary: Jalmutinho.",
+          "full_description": "Jalmutinho."
+        },
+        {
+          "utterance_number": 15,
+          "segment_id": 8,
+          "local_timestamp": "00:01:21 - 00:01:23",
+          "global_timestamp": "00:36:17 - 00:36:19",
+          "rag_description": "Commentary: Guerrero.",
+          "full_description": "Guerrero."
+        },
+        {
+          "utterance_number": 16,
+          "segment_id": 8,
+          "local_timestamp": "00:01:24 - 00:01:29",
+          "global_timestamp": "00:36:20 - 00:36:25",
+          "rag_description": "Commentary: De Her having to initially backtrack quickly.",
+          "full_description": "De Her having to initially backtrack quickly."
+        },
+        {
+          "utterance_number": 17,
+          "segment_id": 8,
+          "local_timestamp": "00:01:31 - 00:01:37",
+          "global_timestamp": "00:36:27 - 00:36:33",
+          "rag_description": "Commentary: He's in charge of Greece at the last World Cup in Brazil.",
+          "full_description": "He's in charge of Greece at the last World Cup in Brazil."
+        },
+        {
+          "utterance_number": 18,
+          "segment_id": 8,
+          "local_timestamp": "00:01:37 - 00:01:42",
+          "global_timestamp": "00:36:33 - 00:36:38",
+          "rag_description": "Commentary: He reached the round of 16 with the grace but lost on penalties to Costa Rica.",
+          "full_description": "He reached the round of 16 with the grace but lost on penalties to Costa Rica."
+        },
+        {
+          "utterance_number": 19,
+          "segment_id": 8,
+          "local_timestamp": "00:01:42 - 00:01:44",
+          "global_timestamp": "00:36:38 - 00:36:40",
+          "rag_description": "Commentary: Ramos.",
+          "full_description": "Ramos."
+        },
+        {
+          "utterance_number": 20,
+          "segment_id": 8,
+          "local_timestamp": "00:01:58 - 00:02:00",
+          "global_timestamp": "00:36:54 - 00:36:56",
+          "rag_description": "Commentary: Isco.",
+          "full_description": "Isco."
+        },
+        {
+          "utterance_number": 21,
+          "segment_id": 8,
+          "local_timestamp": "00:02:00 - 00:02:02",
+          "global_timestamp": "00:36:56 - 00:36:58",
+          "rag_description": "Commentary: Isco.",
+          "full_description": "Isco."
+        },
+        {
+          "utterance_number": 22,
+          "segment_id": 8,
+          "local_timestamp": "00:02:02 - 00:02:04",
+          "global_timestamp": "00:36:58 - 00:37:00",
+          "rag_description": "Commentary: Isco.",
+          "full_description": "Isco."
+        },
+        {
+          "utterance_number": 23,
+          "segment_id": 8,
+          "local_timestamp": "00:02:04 - 00:02:06",
+          "global_timestamp": "00:37:00 - 00:37:02",
+          "rag_description": "Commentary: Isco.",
+          "full_description": "Isco."
+        },
+        {
+          "utterance_number": 24,
+          "segment_id": 8,
+          "local_timestamp": "00:02:06 - 00:02:08",
+          "global_timestamp": "00:37:02 - 00:37:04",
+          "rag_description": "Commentary: Isco.",
+          "full_description": "Isco."
+        },
+        {
+          "utterance_number": 25,
+          "segment_id": 8,
+          "local_timestamp": "00:02:08 - 00:02:10",
+          "global_timestamp": "00:37:04 - 00:37:06",
+          "rag_description": "Commentary: Isco.",
+          "full_description": "Isco."
+        },
+        {
+          "utterance_number": 26,
+          "segment_id": 8,
+          "local_timestamp": "00:02:10 - 00:02:12",
+          "global_timestamp": "00:37:06 - 00:37:08",
+          "rag_description": "Commentary: Isco.",
+          "full_description": "Isco."
+        },
+        {
+          "utterance_number": 27,
+          "segment_id": 8,
+          "local_timestamp": "00:02:17 - 00:02:19",
+          "global_timestamp": "00:37:13 - 00:37:15",
+          "rag_description": "Commentary: Nacho.",
+          "full_description": "Nacho."
+        },
+        {
+          "utterance_number": 28,
+          "segment_id": 8,
+          "local_timestamp": "00:02:26 - 00:02:28",
+          "global_timestamp": "00:37:22 - 00:37:24",
+          "rag_description": "Commentary: Crossfield pass from Pique.",
+          "full_description": "Crossfield pass from Pique."
+        },
+        {
+          "utterance_number": 29,
+          "segment_id": 8,
+          "local_timestamp": "00:02:28 - 00:02:31",
+          "global_timestamp": "00:37:24 - 00:37:27",
+          "rag_description": "Commentary: Oh, it's superbly kept in by Alba.",
+          "full_description": "Oh, it's superbly kept in by Alba."
+        },
+        {
+          "utterance_number": 30,
+          "segment_id": 8,
+          "local_timestamp": "00:02:31 - 00:02:33",
+          "global_timestamp": "00:37:27 - 00:37:29",
+          "rag_description": "Commentary: Iniesta.",
+          "full_description": "Iniesta."
+        },
+        {
+          "utterance_number": 31,
+          "segment_id": 8,
+          "local_timestamp": "00:02:37 - 00:02:39",
+          "global_timestamp": "00:37:33 - 00:37:35",
+          "rag_description": "Commentary: Costa.",
+          "full_description": "Costa."
+        },
+        {
+          "utterance_number": 32,
+          "segment_id": 8,
+          "local_timestamp": "00:02:39 - 00:02:43",
+          "global_timestamp": "00:37:35 - 00:37:39",
+          "rag_description": "Commentary: Iniesta, the little ball with the outside of the boot.",
+          "full_description": "Iniesta, the little ball with the outside of the boot."
+        },
+        {
+          "utterance_number": 33,
+          "segment_id": 8,
+          "local_timestamp": "00:02:44 - 00:02:47",
+          "global_timestamp": "00:37:40 - 00:37:43",
+          "rag_description": "Commentary: And it results in a corner.",
+          "full_description": "And it results in a corner."
+        },
+        {
+          "utterance_number": 34,
+          "segment_id": 8,
+          "local_timestamp": "00:02:47 - 00:02:50",
+          "global_timestamp": "00:37:43 - 00:37:46",
+          "rag_description": "Commentary: Alba was the target put behind by Pepe.",
+          "full_description": "Alba was the target put behind by Pepe."
+        },
+        {
+          "utterance_number": 35,
+          "segment_id": 8,
+          "local_timestamp": "00:03:10 - 00:03:13",
+          "global_timestamp": "00:38:06 - 00:38:09",
+          "rag_description": "Commentary: Busquets is just behind Costa in the penalty area.",
+          "full_description": "Busquets is just behind Costa in the penalty area."
+        },
+        {
+          "utterance_number": 36,
+          "segment_id": 8,
+          "local_timestamp": "00:03:13 - 00:03:15",
+          "global_timestamp": "00:38:09 - 00:38:11",
+          "rag_description": "Commentary: Ramos is there as well.",
+          "full_description": "Ramos is there as well."
+        },
+        {
+          "utterance_number": 37,
+          "segment_id": 8,
+          "local_timestamp": "00:03:18 - 00:03:20",
+          "global_timestamp": "00:38:14 - 00:38:16",
+          "rag_description": "Commentary: Pique is forward for Spain.",
+          "full_description": "Pique is forward for Spain."
+        },
+        {
+          "utterance_number": 38,
+          "segment_id": 8,
+          "local_timestamp": "00:03:21 - 00:03:23",
+          "global_timestamp": "00:38:17 - 00:38:19",
+          "rag_description": "Commentary: So is Isco.",
+          "full_description": "So is Isco."
+        },
+        {
+          "utterance_number": 39,
+          "segment_id": 8,
+          "local_timestamp": "00:03:26 - 00:03:28",
+          "global_timestamp": "00:38:22 - 00:38:24",
+          "rag_description": "Commentary: Too high for Ramos.",
+          "full_description": "Too high for Ramos."
+        },
+        {
+          "utterance_number": 40,
+          "segment_id": 8,
+          "local_timestamp": "00:03:28 - 00:03:30",
+          "global_timestamp": "00:38:24 - 00:38:26",
+          "rag_description": "Commentary: Busquets almost got to it.",
+          "full_description": "Busquets almost got to it."
+        },
+        {
+          "utterance_number": 41,
+          "segment_id": 8,
+          "local_timestamp": "00:03:39 - 00:03:41",
+          "global_timestamp": "00:38:35 - 00:38:37",
+          "rag_description": "Commentary: Isco.",
+          "full_description": "Isco."
+        },
+        {
+          "utterance_number": 42,
+          "segment_id": 8,
+          "local_timestamp": "00:03:43 - 00:03:45",
+          "global_timestamp": "00:38:39 - 00:38:41",
+          "rag_description": "Commentary: Isco.",
+          "full_description": "Isco."
+        },
+        {
+          "utterance_number": 43,
+          "segment_id": 8,
+          "local_timestamp": "00:03:49 - 00:03:51",
+          "global_timestamp": "00:38:45 - 00:38:47",
+          "rag_description": "Commentary: Matinho.",
+          "full_description": "Matinho."
+        },
+        {
+          "utterance_number": 44,
+          "segment_id": 8,
+          "local_timestamp": "00:03:51 - 00:03:53",
+          "global_timestamp": "00:38:47 - 00:38:49",
+          "rag_description": "Commentary: Finds Cedric.",
+          "full_description": "Finds Cedric."
+        },
+        {
+          "utterance_number": 45,
+          "segment_id": 8,
+          "local_timestamp": "00:04:00 - 00:04:02",
+          "global_timestamp": "00:38:56 - 00:38:58",
+          "rag_description": "Commentary: Font.",
+          "full_description": "Font."
+        },
+        {
+          "utterance_number": 46,
+          "segment_id": 8,
+          "local_timestamp": "00:04:02 - 00:04:04",
+          "global_timestamp": "00:38:58 - 00:39:00",
+          "rag_description": "Commentary: Finds Guerrero.",
+          "full_description": "Finds Guerrero."
+        },
+        {
+          "utterance_number": 47,
+          "segment_id": 8,
+          "local_timestamp": "00:04:05 - 00:04:07",
+          "global_timestamp": "00:39:01 - 00:39:03",
+          "rag_description": "Commentary: Isco.",
+          "full_description": "Isco."
+        },
+        {
+          "utterance_number": 48,
+          "segment_id": 8,
+          "local_timestamp": "00:04:07 - 00:04:09",
+          "global_timestamp": "00:39:03 - 00:39:05",
+          "rag_description": "Commentary: Isco.",
+          "full_description": "Isco."
+        },
+        {
+          "utterance_number": 49,
+          "segment_id": 8,
+          "local_timestamp": "00:04:13 - 00:04:15",
+          "global_timestamp": "00:39:09 - 00:39:11",
+          "rag_description": "Commentary: Ronaldo.",
+          "full_description": "Ronaldo."
+        },
+        {
+          "utterance_number": 50,
+          "segment_id": 8,
+          "local_timestamp": "00:04:15 - 00:04:17",
+          "global_timestamp": "00:39:11 - 00:39:13",
+          "rag_description": "Commentary: Ronaldo Silva.",
+          "full_description": "Ronaldo Silva."
+        },
+        {
+          "utterance_number": 51,
+          "segment_id": 8,
+          "local_timestamp": "00:04:19 - 00:04:21",
+          "global_timestamp": "00:39:15 - 00:39:17",
+          "rag_description": "Commentary: Bruno Fernandez.",
+          "full_description": "Bruno Fernandez."
+        },
+        {
+          "utterance_number": 52,
+          "segment_id": 8,
+          "local_timestamp": "00:04:26 - 00:04:28",
+          "global_timestamp": "00:39:22 - 00:39:24",
+          "rag_description": "Commentary: Possibly the longest-speller possession",
+          "full_description": "Possibly the longest-speller possession"
+        },
+        {
+          "utterance_number": 53,
+          "segment_id": 8,
+          "local_timestamp": "00:04:28 - 00:04:30",
+          "global_timestamp": "00:39:24 - 00:39:26",
+          "rag_description": "Commentary: to Portugal have enjoyed for a few minutes.",
+          "full_description": "to Portugal have enjoyed for a few minutes."
+        },
+        {
+          "utterance_number": 54,
+          "segment_id": 8,
+          "local_timestamp": "00:04:30 - 00:04:32",
+          "global_timestamp": "00:39:26 - 00:39:28",
+          "rag_description": "Commentary: FONT.",
+          "full_description": "FONT."
+        },
+        {
+          "utterance_number": 55,
+          "segment_id": 8,
+          "local_timestamp": "00:04:37 - 00:04:40",
+          "global_timestamp": "00:39:33 - 00:39:36",
+          "rag_description": "Commentary: Got a touch on the way through it, Portuguese throw.",
+          "full_description": "Got a touch on the way through it, Portuguese throw."
+        },
+        {
+          "utterance_number": 56,
+          "segment_id": 8,
+          "local_timestamp": "00:04:41 - 00:04:48",
+          "global_timestamp": "00:39:37 - 00:39:44",
+          "rag_description": "Commentary: We've got two balls in play at the moment, which is why one of them is going to have to be kicked of...",
+          "full_description": "We've got two balls in play at the moment, which is why one of them is going to have to be kicked off the pitch."
+        },
+        {
+          "utterance_number": 57,
+          "segment_id": 8,
+          "local_timestamp": "00:04:48 - 00:04:50",
+          "global_timestamp": "00:39:44 - 00:39:46",
+          "rag_description": "Commentary: FONT.",
+          "full_description": "FONT."
+        }
+      ]
+    },
+    {
+      "segment_info": {
+        "segment_id": 9,
+        "global_start_time": "00:39:55",
+        "global_end_time": "00:46:25",
+        "duration": "00:06:30",
+        "total_utterances": 81
+      },
+      "commentary_segments": [
+        {
+          "utterance_number": 1,
+          "segment_id": 9,
+          "local_timestamp": "00:00:00 - 00:00:02",
+          "global_timestamp": "00:39:55 - 00:39:57",
+          "rag_description": "Commentary: If it stays this way at half-time...",
+          "full_description": "If it stays this way at half-time..."
+        },
+        {
+          "utterance_number": 2,
+          "segment_id": 9,
+          "local_timestamp": "00:00:05 - 00:00:09",
+          "global_timestamp": "00:40:00 - 00:40:04",
+          "rag_description": "Commentary: Will it be Fernando Iedo or Fernando Santos?",
+          "full_description": "Will it be Fernando Iedo or Fernando Santos?"
+        },
+        {
+          "utterance_number": 3,
+          "segment_id": 9,
+          "local_timestamp": "00:00:11 - 00:00:14",
+          "global_timestamp": "00:40:07 - 00:40:09",
+          "rag_description": "Commentary: Santos, to be honest, never really looks very happy, does he?",
+          "full_description": "Santos, to be honest, never really looks very happy, does he?"
+        },
+        {
+          "utterance_number": 4,
+          "segment_id": 9,
+          "local_timestamp": "00:00:14 - 00:00:17",
+          "global_timestamp": "00:40:09 - 00:40:13",
+          "rag_description": "Commentary: But he did crack a smile during the media conference yesterday",
+          "full_description": "But he did crack a smile during the media conference yesterday"
+        },
+        {
+          "utterance_number": 5,
+          "segment_id": 9,
+          "local_timestamp": "00:00:17 - 00:00:19",
+          "global_timestamp": "00:40:13 - 00:40:15",
+          "rag_description": "Commentary: on one or two occasions, although Portugal...",
+          "full_description": "on one or two occasions, although Portugal..."
+        },
+        {
+          "utterance_number": 6,
+          "segment_id": 9,
+          "local_timestamp": "00:00:21 - 00:00:26",
+          "global_timestamp": "00:40:17 - 00:40:22",
+          "rag_description": "Commentary: who fielded Jean-Mitinho and Fernando Santos to the world's media yesterday",
+          "full_description": "who fielded Jean-Mitinho and Fernando Santos to the world's media yesterday"
+        },
+        {
+          "utterance_number": 7,
+          "segment_id": 9,
+          "local_timestamp": "00:00:26 - 00:00:28",
+          "global_timestamp": "00:40:22 - 00:40:24",
+          "rag_description": "Commentary: and it was a little...",
+          "full_description": "and it was a little..."
+        },
+        {
+          "utterance_number": 8,
+          "segment_id": 9,
+          "local_timestamp": "00:00:28 - 00:00:32",
+          "global_timestamp": "00:40:24 - 00:40:27",
+          "rag_description": "Commentary: aggrieved, shall we say, that most of the questions were all about",
+          "full_description": "aggrieved, shall we say, that most of the questions were all about"
+        },
+        {
+          "utterance_number": 9,
+          "segment_id": 9,
+          "local_timestamp": "00:00:32 - 00:00:37",
+          "global_timestamp": "00:40:27 - 00:40:32",
+          "rag_description": "Commentary: the Spanish coaching position and the chaos in the Spanish camp",
+          "full_description": "the Spanish coaching position and the chaos in the Spanish camp"
+        },
+        {
+          "utterance_number": 10,
+          "segment_id": 9,
+          "local_timestamp": "00:00:37 - 00:00:39",
+          "global_timestamp": "00:40:32 - 00:40:34",
+          "rag_description": "Commentary: ahead of this fixture.",
+          "full_description": "ahead of this fixture."
+        },
+        {
+          "utterance_number": 11,
+          "segment_id": 9,
+          "local_timestamp": "00:00:41 - 00:00:45",
+          "global_timestamp": "00:40:37 - 00:40:40",
+          "rag_description": "Commentary: But it has to be said, with so much experience in the Spanish line-up...",
+          "full_description": "But it has to be said, with so much experience in the Spanish line-up..."
+        },
+        {
+          "utterance_number": 12,
+          "segment_id": 9,
+          "local_timestamp": "00:00:47 - 00:00:50",
+          "global_timestamp": "00:40:42 - 00:40:46",
+          "rag_description": "Commentary: This team could almost manage itself.",
+          "full_description": "This team could almost manage itself."
+        },
+        {
+          "utterance_number": 13,
+          "segment_id": 9,
+          "local_timestamp": "00:00:51 - 00:00:55",
+          "global_timestamp": "00:40:47 - 00:40:51",
+          "rag_description": "Commentary: Referee thought about an advantage there, decided against it.",
+          "full_description": "Referee thought about an advantage there, decided against it."
+        },
+        {
+          "utterance_number": 14,
+          "segment_id": 9,
+          "local_timestamp": "00:00:59 - 00:01:03",
+          "global_timestamp": "00:40:55 - 00:40:59",
+          "rag_description": "Commentary: Falon Costa after the early challenge on Busquets.",
+          "full_description": "Falon Costa after the early challenge on Busquets."
+        },
+        {
+          "utterance_number": 15,
+          "segment_id": 9,
+          "local_timestamp": "00:01:08 - 00:01:10",
+          "global_timestamp": "00:41:03 - 00:41:06",
+          "rag_description": "Commentary: They're just ensuring that he doesn't get a yellow card.",
+          "full_description": "They're just ensuring that he doesn't get a yellow card."
+        },
+        {
+          "utterance_number": 16,
+          "segment_id": 9,
+          "local_timestamp": "00:01:12 - 00:01:13",
+          "global_timestamp": "00:41:08 - 00:41:09",
+          "rag_description": "Commentary: For that challenge...",
+          "full_description": "For that challenge..."
+        },
+        {
+          "utterance_number": 17,
+          "segment_id": 9,
+          "local_timestamp": "00:01:20 - 00:01:22",
+          "global_timestamp": "00:41:16 - 00:41:18",
+          "rag_description": "Commentary: FANS SHOUTING",
+          "full_description": "FANS SHOUTING"
+        },
+        {
+          "utterance_number": 18,
+          "segment_id": 9,
+          "local_timestamp": "00:01:36 - 00:01:39",
+          "global_timestamp": "00:41:31 - 00:41:35",
+          "rag_description": "Commentary: Spain very much stretched right across the full width of this pitch at the moment.",
+          "full_description": "Spain very much stretched right across the full width of this pitch at the moment."
+        },
+        {
+          "utterance_number": 19,
+          "segment_id": 9,
+          "local_timestamp": "00:01:46 - 00:01:47",
+          "global_timestamp": "00:41:41 - 00:41:42",
+          "rag_description": "Commentary: Caca.",
+          "full_description": "Caca."
+        },
+        {
+          "utterance_number": 20,
+          "segment_id": 9,
+          "local_timestamp": "00:01:47 - 00:01:49",
+          "global_timestamp": "00:41:42 - 00:41:44",
+          "rag_description": "Commentary: Silver.",
+          "full_description": "Silver."
+        },
+        {
+          "utterance_number": 21,
+          "segment_id": 9,
+          "local_timestamp": "00:01:49 - 00:01:50",
+          "global_timestamp": "00:41:44 - 00:41:45",
+          "rag_description": "Commentary: Esco.",
+          "full_description": "Esco."
+        },
+        {
+          "utterance_number": 22,
+          "segment_id": 9,
+          "local_timestamp": "00:01:50 - 00:01:51",
+          "global_timestamp": "00:41:45 - 00:41:46",
+          "rag_description": "Commentary: Esco shot.",
+          "full_description": "Esco shot."
+        },
+        {
+          "utterance_number": 23,
+          "segment_id": 9,
+          "local_timestamp": "00:01:57 - 00:02:00",
+          "global_timestamp": "00:41:52 - 00:41:55",
+          "rag_description": "Commentary: He's got ten goals for Spain.",
+          "full_description": "He's got ten goals for Spain."
+        },
+        {
+          "utterance_number": 24,
+          "segment_id": 9,
+          "local_timestamp": "00:02:00 - 00:02:03",
+          "global_timestamp": "00:41:55 - 00:41:58",
+          "rag_description": "Commentary: Esco in his 29 appearances now for his country.",
+          "full_description": "Esco in his 29 appearances now for his country."
+        },
+        {
+          "utterance_number": 25,
+          "segment_id": 9,
+          "local_timestamp": "00:02:07 - 00:02:10",
+          "global_timestamp": "00:42:02 - 00:42:05",
+          "rag_description": "Commentary: The man who was Carlo Ancelotti's first signing",
+          "full_description": "The man who was Carlo Ancelotti's first signing"
+        },
+        {
+          "utterance_number": 26,
+          "segment_id": 9,
+          "local_timestamp": "00:02:10 - 00:02:13",
+          "global_timestamp": "00:42:05 - 00:42:08",
+          "rag_description": "Commentary: when he took over at Real Madrid back in 2013.",
+          "full_description": "when he took over at Real Madrid back in 2013."
+        },
+        {
+          "utterance_number": 27,
+          "segment_id": 9,
+          "local_timestamp": "00:02:14 - 00:02:16",
+          "global_timestamp": "00:42:09 - 00:42:11",
+          "rag_description": "Commentary: FANS SHOUTING",
+          "full_description": "FANS SHOUTING"
+        },
+        {
+          "utterance_number": 28,
+          "segment_id": 9,
+          "local_timestamp": "00:02:18 - 00:02:19",
+          "global_timestamp": "00:42:13 - 00:42:14",
+          "rag_description": "Commentary: Iniesta.",
+          "full_description": "Iniesta."
+        },
+        {
+          "utterance_number": 29,
+          "segment_id": 9,
+          "local_timestamp": "00:02:19 - 00:02:21",
+          "global_timestamp": "00:42:14 - 00:42:16",
+          "rag_description": "Commentary: Here's Alba.",
+          "full_description": "Here's Alba."
+        },
+        {
+          "utterance_number": 30,
+          "segment_id": 9,
+          "local_timestamp": "00:02:23 - 00:02:26",
+          "global_timestamp": "00:42:18 - 00:42:21",
+          "rag_description": "Commentary: Not the best of clearances away, it has to be said, but...",
+          "full_description": "Not the best of clearances away, it has to be said, but..."
+        },
+        {
+          "utterance_number": 31,
+          "segment_id": 9,
+          "local_timestamp": "00:02:27 - 00:02:29",
+          "global_timestamp": "00:42:22 - 00:42:24",
+          "rag_description": "Commentary: in his defence...",
+          "full_description": "in his defence..."
+        },
+        {
+          "utterance_number": 32,
+          "segment_id": 9,
+          "local_timestamp": "00:02:30 - 00:02:34",
+          "global_timestamp": "00:42:25 - 00:42:29",
+          "rag_description": "Commentary: there were Spanish strikers looming behind Guerrero.",
+          "full_description": "there were Spanish strikers looming behind Guerrero."
+        },
+        {
+          "utterance_number": 33,
+          "segment_id": 9,
+          "local_timestamp": "00:02:38 - 00:02:40",
+          "global_timestamp": "00:42:33 - 00:42:35",
+          "rag_description": "Commentary: It's a fourth corner then for Spain.",
+          "full_description": "It's a fourth corner then for Spain."
+        },
+        {
+          "utterance_number": 34,
+          "segment_id": 9,
+          "local_timestamp": "00:02:44 - 00:02:47",
+          "global_timestamp": "00:42:39 - 00:42:42",
+          "rag_description": "Commentary: Towards Piquet, gathered by Rui Patricio.",
+          "full_description": "Towards Piquet, gathered by Rui Patricio."
+        },
+        {
+          "utterance_number": 35,
+          "segment_id": 9,
+          "local_timestamp": "00:02:47 - 00:02:50",
+          "global_timestamp": "00:42:42 - 00:42:45",
+          "rag_description": "Commentary: And a quick throw as well. Here's Cristiano Ronaldo.",
+          "full_description": "And a quick throw as well. Here's Cristiano Ronaldo."
+        },
+        {
+          "utterance_number": 36,
+          "segment_id": 9,
+          "local_timestamp": "00:02:51 - 00:02:53",
+          "global_timestamp": "00:42:46 - 00:42:48",
+          "rag_description": "Commentary: Portugal looking to break again.",
+          "full_description": "Portugal looking to break again."
+        },
+        {
+          "utterance_number": 37,
+          "segment_id": 9,
+          "local_timestamp": "00:02:55 - 00:02:58",
+          "global_timestamp": "00:42:50 - 00:42:53",
+          "rag_description": "Commentary: They've not been successful on the two previous occasions,",
+          "full_description": "They've not been successful on the two previous occasions,"
+        },
+        {
+          "utterance_number": 38,
+          "segment_id": 9,
+          "local_timestamp": "00:02:58 - 00:03:00",
+          "global_timestamp": "00:42:53 - 00:42:55",
+          "rag_description": "Commentary: and Spain now have men back in numbers.",
+          "full_description": "and Spain now have men back in numbers."
+        },
+        {
+          "utterance_number": 39,
+          "segment_id": 9,
+          "local_timestamp": "00:03:03 - 00:03:04",
+          "global_timestamp": "00:42:58 - 00:42:59",
+          "rag_description": "Commentary: William.",
+          "full_description": "William."
+        },
+        {
+          "utterance_number": 40,
+          "segment_id": 9,
+          "local_timestamp": "00:03:14 - 00:03:15",
+          "global_timestamp": "00:43:09 - 00:43:10",
+          "rag_description": "Commentary: Silver.",
+          "full_description": "Silver."
+        },
+        {
+          "utterance_number": 41,
+          "segment_id": 9,
+          "local_timestamp": "00:03:17 - 00:03:20",
+          "global_timestamp": "00:43:12 - 00:43:15",
+          "rag_description": "Commentary: Cedric drives it across. Ronaldo the target.",
+          "full_description": "Cedric drives it across. Ronaldo the target."
+        },
+        {
+          "utterance_number": 42,
+          "segment_id": 9,
+          "local_timestamp": "00:03:25 - 00:03:28",
+          "global_timestamp": "00:43:20 - 00:43:23",
+          "rag_description": "Commentary: A quick bouncing ball. William may get that.",
+          "full_description": "A quick bouncing ball. William may get that."
+        },
+        {
+          "utterance_number": 43,
+          "segment_id": 9,
+          "local_timestamp": "00:03:28 - 00:03:30",
+          "global_timestamp": "00:43:23 - 00:43:25",
+          "rag_description": "Commentary: The height advantage over.",
+          "full_description": "The height advantage over."
+        },
+        {
+          "utterance_number": 44,
+          "segment_id": 9,
+          "local_timestamp": "00:03:31 - 00:03:34",
+          "global_timestamp": "00:43:26 - 00:43:29",
+          "rag_description": "Commentary: Andres Iniesta very much coming into play there.",
+          "full_description": "Andres Iniesta very much coming into play there."
+        },
+        {
+          "utterance_number": 45,
+          "segment_id": 9,
+          "local_timestamp": "00:03:35 - 00:03:38",
+          "global_timestamp": "00:43:30 - 00:43:33",
+          "rag_description": "Commentary: Gwadesh onside. Ronaldo wasn't initially...",
+          "full_description": "Gwadesh onside. Ronaldo wasn't initially..."
+        },
+        {
+          "utterance_number": 46,
+          "segment_id": 9,
+          "local_timestamp": "00:03:38 - 00:03:40",
+          "global_timestamp": "00:43:33 - 00:43:35",
+          "rag_description": "Commentary: Ronaldo with the shot. Oh, it's gone in!",
+          "full_description": "Ronaldo with the shot. Oh, it's gone in!"
+        },
+        {
+          "utterance_number": 47,
+          "segment_id": 9,
+          "local_timestamp": "00:03:44 - 00:03:46",
+          "global_timestamp": "00:43:39 - 00:43:41",
+          "rag_description": "Commentary: An error from David De Gea.",
+          "full_description": "An error from David De Gea."
+        },
+        {
+          "utterance_number": 48,
+          "segment_id": 9,
+          "local_timestamp": "00:03:46 - 00:03:51",
+          "global_timestamp": "00:43:41 - 00:43:46",
+          "rag_description": "Commentary: And Cristiano Ronaldo gets Portugal's second goal of the night.",
+          "full_description": "And Cristiano Ronaldo gets Portugal's second goal of the night."
+        },
+        {
+          "utterance_number": 49,
+          "segment_id": 9,
+          "local_timestamp": "00:03:51 - 00:03:53",
+          "global_timestamp": "00:43:46 - 00:43:48",
+          "rag_description": "Commentary: His second goal of the night.",
+          "full_description": "His second goal of the night."
+        },
+        {
+          "utterance_number": 50,
+          "segment_id": 9,
+          "local_timestamp": "00:03:53 - 00:03:57",
+          "global_timestamp": "00:43:48 - 00:43:52",
+          "rag_description": "Commentary: And very much against the run of play, Portugal are back in front.",
+          "full_description": "And very much against the run of play, Portugal are back in front."
+        },
+        {
+          "utterance_number": 51,
+          "segment_id": 9,
+          "local_timestamp": "00:04:08 - 00:04:10",
+          "global_timestamp": "00:44:03 - 00:44:05",
+          "rag_description": "Commentary: There's the ball forward.",
+          "full_description": "There's the ball forward."
+        },
+        {
+          "utterance_number": 52,
+          "segment_id": 9,
+          "local_timestamp": "00:04:10 - 00:04:13",
+          "global_timestamp": "00:44:05 - 00:44:08",
+          "rag_description": "Commentary: Gwadesh able to take it down.",
+          "full_description": "Gwadesh able to take it down."
+        },
+        {
+          "utterance_number": 53,
+          "segment_id": 9,
+          "local_timestamp": "00:04:14 - 00:04:19",
+          "global_timestamp": "00:44:09 - 00:44:14",
+          "rag_description": "Commentary: And Ronaldo's shot should have been comfortable for David De Gea.",
+          "full_description": "And Ronaldo's shot should have been comfortable for David De Gea."
+        },
+        {
+          "utterance_number": 54,
+          "segment_id": 9,
+          "local_timestamp": "00:04:21 - 00:04:22",
+          "global_timestamp": "00:44:16 - 00:44:17",
+          "rag_description": "Commentary: What an error.",
+          "full_description": "What an error."
+        },
+        {
+          "utterance_number": 55,
+          "segment_id": 9,
+          "local_timestamp": "00:04:29 - 00:04:33",
+          "global_timestamp": "00:44:24 - 00:44:28",
+          "rag_description": "Commentary: One that will haunt David De Gea for years to come.",
+          "full_description": "One that will haunt David De Gea for years to come."
+        },
+        {
+          "utterance_number": 56,
+          "segment_id": 9,
+          "local_timestamp": "00:04:33 - 00:04:38",
+          "global_timestamp": "00:44:28 - 00:44:33",
+          "rag_description": "Commentary: Because just before half-time, Cristiano Ronaldo has turned this group match",
+          "full_description": "Because just before half-time, Cristiano Ronaldo has turned this group match"
+        },
+        {
+          "utterance_number": 57,
+          "segment_id": 9,
+          "local_timestamp": "00:04:38 - 00:04:40",
+          "global_timestamp": "00:44:33 - 00:44:35",
+          "rag_description": "Commentary: back in Portugal's favour.",
+          "full_description": "back in Portugal's favour."
+        },
+        {
+          "utterance_number": 58,
+          "segment_id": 9,
+          "local_timestamp": "00:04:50 - 00:04:55",
+          "global_timestamp": "00:44:45 - 00:44:50",
+          "rag_description": "Commentary: 22 goals in his last 18 internationals for Cristiano Ronaldo.",
+          "full_description": "22 goals in his last 18 internationals for Cristiano Ronaldo."
+        },
+        {
+          "utterance_number": 59,
+          "segment_id": 9,
+          "local_timestamp": "00:04:55 - 00:04:59",
+          "global_timestamp": "00:44:50 - 00:44:54",
+          "rag_description": "Commentary: And Portugal have scored twice against the last two.",
+          "full_description": "And Portugal have scored twice against the last two."
+        },
+        {
+          "utterance_number": 60,
+          "segment_id": 9,
+          "local_timestamp": "00:04:59 - 00:05:03",
+          "global_timestamp": "00:44:54 - 00:44:58",
+          "rag_description": "Commentary: And Portugal have scored twice against the Spanish side",
+          "full_description": "And Portugal have scored twice against the Spanish side"
+        },
+        {
+          "utterance_number": 61,
+          "segment_id": 9,
+          "local_timestamp": "00:05:03 - 00:05:09",
+          "global_timestamp": "00:44:58 - 00:45:04",
+          "rag_description": "Commentary: who conceded just three goals in their ten qualifying matches.",
+          "full_description": "who conceded just three goals in their ten qualifying matches."
+        },
+        {
+          "utterance_number": 62,
+          "segment_id": 9,
+          "local_timestamp": "00:05:10 - 00:05:14",
+          "global_timestamp": "00:45:05 - 00:45:09",
+          "rag_description": "Commentary: As we go into an additional minimum of one minute.",
+          "full_description": "As we go into an additional minimum of one minute."
+        },
+        {
+          "utterance_number": 63,
+          "segment_id": 9,
+          "local_timestamp": "00:05:16 - 00:05:19",
+          "global_timestamp": "00:45:11 - 00:45:14",
+          "rag_description": "Commentary: I don't know about you, I don't particularly want half-time to come.",
+          "full_description": "I don't know about you, I don't particularly want half-time to come."
+        },
+        {
+          "utterance_number": 64,
+          "segment_id": 9,
+          "local_timestamp": "00:05:24 - 00:05:26",
+          "global_timestamp": "00:45:19 - 00:45:21",
+          "rag_description": "Commentary: It has been fantastic fair.",
+          "full_description": "It has been fantastic fair."
+        },
+        {
+          "utterance_number": 65,
+          "segment_id": 9,
+          "local_timestamp": "00:05:30 - 00:05:31",
+          "global_timestamp": "00:45:25 - 00:45:26",
+          "rag_description": "Commentary: Silva.",
+          "full_description": "Silva."
+        },
+        {
+          "utterance_number": 66,
+          "segment_id": 9,
+          "local_timestamp": "00:05:34 - 00:05:35",
+          "global_timestamp": "00:45:29 - 00:45:30",
+          "rag_description": "Commentary: Ramos.",
+          "full_description": "Ramos."
+        },
+        {
+          "utterance_number": 67,
+          "segment_id": 9,
+          "local_timestamp": "00:05:39 - 00:05:40",
+          "global_timestamp": "00:45:34 - 00:45:35",
+          "rag_description": "Commentary: Alba.",
+          "full_description": "Alba."
+        },
+        {
+          "utterance_number": 68,
+          "segment_id": 9,
+          "local_timestamp": "00:05:40 - 00:05:42",
+          "global_timestamp": "00:45:35 - 00:45:37",
+          "rag_description": "Commentary: They're going to take on Cedric.",
+          "full_description": "They're going to take on Cedric."
+        },
+        {
+          "utterance_number": 69,
+          "segment_id": 9,
+          "local_timestamp": "00:05:42 - 00:05:44",
+          "global_timestamp": "00:45:37 - 00:45:39",
+          "rag_description": "Commentary: Spain get another corner.",
+          "full_description": "Spain get another corner."
+        },
+        {
+          "utterance_number": 70,
+          "segment_id": 9,
+          "local_timestamp": "00:05:45 - 00:05:49",
+          "global_timestamp": "00:45:40 - 00:45:44",
+          "rag_description": "Commentary: And this may well be the last passage of play in the first half.",
+          "full_description": "And this may well be the last passage of play in the first half."
+        },
+        {
+          "utterance_number": 71,
+          "segment_id": 9,
+          "local_timestamp": "00:05:49 - 00:05:55",
+          "global_timestamp": "00:45:44 - 00:45:50",
+          "rag_description": "Commentary: As you can see, we are almost at the additional one-minute stage.",
+          "full_description": "As you can see, we are almost at the additional one-minute stage."
+        },
+        {
+          "utterance_number": 72,
+          "segment_id": 9,
+          "local_timestamp": "00:05:55 - 00:05:57",
+          "global_timestamp": "00:45:50 - 00:45:52",
+          "rag_description": "Commentary: Corner taken quickly.",
+          "full_description": "Corner taken quickly."
+        },
+        {
+          "utterance_number": 73,
+          "segment_id": 9,
+          "local_timestamp": "00:05:57 - 00:06:00",
+          "global_timestamp": "00:45:52 - 00:45:55",
+          "rag_description": "Commentary: Referees had a good look at his watch.",
+          "full_description": "Referees had a good look at his watch."
+        },
+        {
+          "utterance_number": 74,
+          "segment_id": 9,
+          "local_timestamp": "00:06:00 - 00:06:03",
+          "global_timestamp": "00:45:55 - 00:45:58",
+          "rag_description": "Commentary: What a first half that was in Sochi.",
+          "full_description": "What a first half that was in Sochi."
+        },
+        {
+          "utterance_number": 75,
+          "segment_id": 9,
+          "local_timestamp": "00:06:03 - 00:06:08",
+          "global_timestamp": "00:45:58 - 00:46:03",
+          "rag_description": "Commentary: Cristiano Ronaldo putting Portugal in front with an early penalty.",
+          "full_description": "Cristiano Ronaldo putting Portugal in front with an early penalty."
+        },
+        {
+          "utterance_number": 76,
+          "segment_id": 9,
+          "local_timestamp": "00:06:08 - 00:06:13",
+          "global_timestamp": "00:46:03 - 00:46:08",
+          "rag_description": "Commentary: And then in front again with a late goal that owed much to an error from David De Gea.",
+          "full_description": "And then in front again with a late goal that owed much to an error from David De Gea."
+        },
+        {
+          "utterance_number": 77,
+          "segment_id": 9,
+          "local_timestamp": "00:06:13 - 00:06:17",
+          "global_timestamp": "00:46:08 - 00:46:12",
+          "rag_description": "Commentary: Diego Costa with the goal for Spain.",
+          "full_description": "Diego Costa with the goal for Spain."
+        },
+        {
+          "utterance_number": 78,
+          "segment_id": 9,
+          "local_timestamp": "00:06:18 - 00:06:20",
+          "global_timestamp": "00:46:13 - 00:46:15",
+          "rag_description": "Commentary: It's been absorbing.",
+          "full_description": "It's been absorbing."
+        },
+        {
+          "utterance_number": 79,
+          "segment_id": 9,
+          "local_timestamp": "00:06:20 - 00:06:22",
+          "global_timestamp": "00:46:15 - 00:46:17",
+          "rag_description": "Commentary: It's been wonderful.",
+          "full_description": "It's been wonderful."
+        },
+        {
+          "utterance_number": 80,
+          "segment_id": 9,
+          "local_timestamp": "00:06:22 - 00:06:24",
+          "global_timestamp": "00:46:17 - 00:46:19",
+          "rag_description": "Commentary: It's been engrossing.",
+          "full_description": "It's been engrossing."
+        },
+        {
+          "utterance_number": 81,
+          "segment_id": 9,
+          "local_timestamp": "00:06:24 - 00:06:27",
+          "global_timestamp": "00:46:19 - 00:46:22",
+          "rag_description": "Commentary: And it has been a fantastic first 45 minutes.",
+          "full_description": "And it has been a fantastic first 45 minutes."
+        }
+      ]
+    }
+  ]
+}

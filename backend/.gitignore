@@ -1,0 +1,49 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files
+.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+__pycache__/
+
+# Configuration files with sensitive data
+config.py
+
+batch1
+batch2
+batch3
+batch4
+batch5
+batch6
+batch7
+batch8
+batch9
+embeddings
+halftime.mp4
+clips
+media
+models
+
+testing_videos
